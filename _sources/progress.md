@@ -187,3 +187,6 @@
 | 2025-12-23 | BSR | 1 | conventional synthetic DMARDs monitoring (2025) |
 | 2025-12-23 | ESMO | 2 | CLL update and Safe use of LLMs in Oncology (2025) |
 | 2025-12-23 | SAGES | 1 | Surgical management of bile duct injury (2025) |
+| 2025-12-23 | ESC | 4 | AF, CCS, PAD, and Hypertension (2024) |
+| 2025-12-23 | ASRM | 1 | Premature Ovarian Insufficiency (2025) |
+| 2025-12-23 | AUA/ASRM | 1 | Male Infertility joint update (2024) |
