@@ -1,10 +1,41 @@
-# SCCM PADIS Guidelines: Pain, Anxiety, Agitation, Delirium, Immobility, Sleep Disruption (2025 Update)
+---
+id: sccm-padis-2025
+title: "SCCM PADIS Guidelines: Pain, Anxiety, Agitation, Delirium, Immobility, Sleep Disruption (2025 Update)"
+short_title: "SCCM PADIS 2025"
 
-## Metadata
-- **Specialty**: Critical Care
-- **Organization**: Society of Critical Care Medicine (SCCM)
-- **Year**: 2025 (Focused Update of 2018 Guidelines)
-- **Source URL**: https://www.sccm.org/clinical-resources/guidelines/guidelines/focused-update-padis-guideline
+organization: Society of Critical Care Medicine
+collaborators: null
+country: US
+url: https://www.sccm.org/clinical-resources/guidelines/guidelines/focused-update-padis-guideline
+doi: null
+pmid: null
+open_access: true
+
+specialty: critical-care
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - pain
+  - anxiety
+  - agitation
+  - delirium
+  - sleep disruption
+tags:
+  - PADIS
+  - ABCDEF bundle
+  - dexmedetomidine
+  - melatonin
+
+publication_date: 2025-01-01
+previous_version_date: 2018-01-01
+status: current
+supersedes: sccm-padis-2018
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Focused update to the 2018 PADIS guidelines with new recommendations for management of anxiety (new topic), agitation/sedation, delirium, immobility, and sleep disruption in critically ill adults.

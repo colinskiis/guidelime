@@ -1,12 +1,41 @@
-# ATS Clinical Practice Guideline: Home Oxygen Therapy for Adults with Chronic Lung Disease
+---
+id: ats-home-oxygen-2020
+title: "ATS Clinical Practice Guideline: Home Oxygen Therapy for Adults with Chronic Lung Disease"
+short_title: "ATS Home Oxygen 2020"
 
-## Metadata
-- **Specialty**: Pulmonology
-- **Organization**: American Thoracic Society (ATS)
-- **Year**: 2020
-- **DOI**: [10.1164/rccm.202009-3608ST](https://doi.org/10.1164/rccm.202009-3608ST)
-- **PMID**: [33185464](https://pubmed.ncbi.nlm.nih.gov/33185464/)
-- **Source URL**: https://www.thoracic.org/statements/guideline-implementation-tools/home-oxygen-therapy-for-adults.php
+organization: American Thoracic Society
+collaborators: null
+country: US
+url: https://www.thoracic.org/statements/guideline-implementation-tools/home-oxygen-therapy-for-adults.php
+doi: 10.1164/rccm.202009-3608ST
+pmid: 33185464
+open_access: true
+
+specialty: pulmonology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - chronic lung disease
+  - COPD
+  - hypoxemia
+tags:
+  - LTOT
+  - oxygen concentrator
+  - SpO2
+  - smoking cessation
+
+publication_date: 2020-11-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ATS Clinical Practice Guideline: Home Oxygen Therapy for Adults with Chronic Lung Disease
 
 ## Scope
 Evidence-based recommendations for prescribing long-term oxygen therapy (LTOT) for adults with chronic lung disease.

@@ -1,10 +1,39 @@
-# ACOG Practice Bulletin: Postpartum Hemorrhage
+---
+id: acog-postpartum-hemorrhage-2017
+title: "ACOG Practice Bulletin: Postpartum Hemorrhage"
+short_title: "ACOG PPH 2017"
 
-## Metadata
-- **Specialty**: Obstetrics and Gynecology
-- **Organization**: American College of Obstetricians and Gynecologists (ACOG)
-- **Year**: 2017 (Practice Bulletin No. 183, with 2025 Clinical Practice Update)
-- **Source URL**: https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2017/10/postpartum-hemorrhage
+organization: American College of Obstetricians and Gynecologists
+collaborators: null
+country: US
+url: https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2017/10/postpartum-hemorrhage
+doi: null
+pmid: null
+open_access: false
+
+specialty: obstetrics-gynecology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - postpartum hemorrhage
+  - PPH
+  - maternal morbidity
+tags:
+  - oxytocin
+  - uterotonics
+  - tranexamic acid
+  - blood loss
+
+publication_date: 2017-10-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Risk assessment, prevention, and management of postpartum hemorrhage (PPH), the leading cause of severe maternal morbidity in the United States.

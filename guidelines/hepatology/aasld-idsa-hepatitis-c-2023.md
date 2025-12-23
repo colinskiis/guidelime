@@ -1,12 +1,40 @@
-# AASLD-IDSA Hepatitis C Guidance 2023 Update
+---
+id: aasld-idsa-hepatitis-c-2023
+title: "AASLD-IDSA Hepatitis C Guidance 2023 Update"
+short_title: "AASLD-IDSA Hep C 2023"
 
-## Metadata
-- **Specialty**: Hepatology, Infectious Disease
-- **Organization**: American Association for the Study of Liver Diseases (AASLD), Infectious Diseases Society of America (IDSA)
-- **Year**: 2023
-- **DOI**: [10.1093/cid/ciad319](https://doi.org/10.1093/cid/ciad319)
-- **PMID**: [37229695](https://pubmed.ncbi.nlm.nih.gov/37229695/)
-- **Source URL**: https://www.hcvguidelines.org/
+organization: American Association for the Study of Liver Diseases
+collaborators:
+  - Infectious Diseases Society of America
+country: US
+url: https://www.hcvguidelines.org/
+doi: 10.1093/cid/ciad319
+pmid: 37229695
+open_access: true
+
+specialty: hepatology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - hepatitis C
+  - HCV
+  - cirrhosis
+tags:
+  - screening
+  - DAA
+  - SVR
+  - simplified treatment
+
+publication_date: 2023-05-23
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for testing, managing, and treating hepatitis C virus (HCV) infection, including simplified treatment approaches.

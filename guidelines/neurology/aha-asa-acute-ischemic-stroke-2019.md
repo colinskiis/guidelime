@@ -1,12 +1,42 @@
-# AHA/ASA Guidelines for the Early Management of Patients with Acute Ischemic Stroke
+---
+id: aha-asa-acute-ischemic-stroke-2019
+title: "AHA/ASA Guidelines for the Early Management of Patients with Acute Ischemic Stroke"
+short_title: "AHA/ASA Stroke 2019"
 
-## Metadata
-- **Specialty**: Neurology
-- **Organization**: American Heart Association (AHA), American Stroke Association (ASA)
-- **Year**: 2019 (Update to 2018 Guidelines)
-- **DOI**: [10.1161/STR.0000000000000211](https://doi.org/10.1161/STR.0000000000000211)
-- **PMID**: [31662037](https://pubmed.ncbi.nlm.nih.gov/31662037/)
-- **Source URL**: https://www.ahajournals.org/doi/10.1161/STR.0000000000000211
+organization: American Heart Association
+collaborators:
+  - American Stroke Association
+country: US
+url: https://www.ahajournals.org/doi/10.1161/STR.0000000000000211
+doi: 10.1161/STR.0000000000000211
+pmid: 31662037
+open_access: true
+
+specialty: neurology
+guideline_type: clinical-practice
+evidence_system: AHA
+conditions:
+  - acute ischemic stroke
+  - AIS
+  - stroke
+tags:
+  - alteplase
+  - thrombectomy
+  - tenecteplase
+  - door-to-needle
+
+publication_date: 2019-10-30
+previous_version_date: 2018-01-24
+status: current
+supersedes: aha-asa-stroke-2018
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AHA/ASA Guidelines for the Early Management of Patients with Acute Ischemic Stroke
 
 ## Scope
 Evidence-based recommendations for early management of acute ischemic stroke (AIS), including thrombolysis, thrombectomy, and supportive care.

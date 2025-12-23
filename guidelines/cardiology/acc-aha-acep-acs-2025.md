@@ -1,12 +1,50 @@
+---
+id: acc-aha-acep-acs-2025
+title: "2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes"
+short_title: "ACC/AHA ACS 2025"
+
+organization: American College of Cardiology
+collaborators:
+  - American Heart Association
+  - American College of Emergency Physicians
+  - National Association of EMS Physicians
+  - Society for Cardiovascular Angiography and Interventions
+country: US
+url: https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309
+doi: 10.1161/CIR.0000000000001309
+pmid: null
+open_access: true
+
+specialty: cardiology
+guideline_type: clinical-practice
+evidence_system: AHA
+conditions:
+  - acute coronary syndrome
+  - STEMI
+  - NSTE-ACS
+  - myocardial infarction
+tags:
+  - PCI
+  - troponin
+  - antiplatelet
+  - anticoagulation
+  - reperfusion
+
+publication_date: 2024-12-01
+previous_version_date: 2014-09-23
+status: current
+supersedes: acc-aha-nstemi-2014
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
 # ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients with Acute Coronary Syndromes
 
-## Metadata
-- **Specialty**: Cardiology, Emergency Medicine
-- **Organization**: American College of Cardiology (ACC), American Heart Association (AHA), American College of Emergency Physicians (ACEP), National Association of EMS Physicians (NAEMSP), Society for Cardiovascular Angiography and Interventions (SCAI)
-- **Year**: 2025
-- **Source URL**: https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309
-
 ## Scope
+
 Comprehensive guideline for the management of patients with acute coronary syndromes (ACS), incorporating new evidence since 2013-2014 guidelines.
 
 ## Key Recommendations
@@ -52,4 +90,5 @@ Comprehensive guideline for the management of patients with acute coronary syndr
 - Diabetes management
 
 ## Evidence Review
+
 Comprehensive literature search conducted from July 2023 to April 2024, including research from MEDLINE, EMBASE, Cochrane Library, and other selected databases.

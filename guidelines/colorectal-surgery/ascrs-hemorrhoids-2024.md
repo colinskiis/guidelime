@@ -1,12 +1,38 @@
-# ASCRS Clinical Practice Guidelines: Management of Hemorrhoids
+---
+id: ascrs-hemorrhoids-2024
+title: "ASCRS Clinical Practice Guidelines: Management of Hemorrhoids"
+short_title: "ASCRS Hemorrhoids 2024"
 
-## Metadata
-- **Specialty**: Colorectal Surgery
-- **Organization**: American Society of Colon and Rectal Surgeons (ASCRS)
-- **Year**: 2024
-- **DOI**: [10.1097/DCR.0000000000003102](https://doi.org/10.1097/DCR.0000000000003102)
-- **PMID**: [38294832](https://pubmed.ncbi.nlm.nih.gov/38294832/)
-- **Source URL**: https://journals.lww.com/dcrjournal
+organization: American Society of Colon and Rectal Surgeons
+collaborators: null
+country: US
+url: https://journals.lww.com/dcrjournal/fulltext/2024/03000/clinical_practice_guidelines_for_the_management_of.7.aspx
+doi: 10.1097/DCR.0000000000003102
+pmid: 38294832
+open_access: false
+
+specialty: colorectal-surgery
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - hemorrhoids
+  - hemorrhoidal disease
+tags:
+  - rubber band ligation
+  - hemorrhoidectomy
+  - Ferguson technique
+  - office-based procedures
+
+publication_date: 2024-03-01
+previous_version_date: 2018-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the evaluation and management of hemorrhoidal disease.

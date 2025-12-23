@@ -1,12 +1,40 @@
-# AGA Clinical Practice Guideline on the Role of Biomarkers for the Management of Crohn's Disease
+---
+id: aga-crohn-biomarkers-2023
+title: "AGA Clinical Practice Guideline on the Role of Biomarkers for the Management of Crohn's Disease"
+short_title: "AGA Crohn's Biomarkers 2023"
 
-## Metadata
-- **Specialty**: Gastroenterology
-- **Organization**: American Gastroenterological Association (AGA)
-- **Year**: 2023
-- **DOI**: [10.1053/j.gastro.2023.09.029](https://doi.org/10.1053/j.gastro.2023.09.029)
-- **PMID**: [37981354](https://pubmed.ncbi.nlm.nih.gov/37981354/)
-- **Source URL**: https://www.gastrojournal.org/article/S0016-5085(23)05142-6/fulltext
+organization: American Gastroenterological Association
+collaborators: null
+country: US
+url: https://www.gastrojournal.org/article/S0016-5085(23)05142-6/fulltext
+doi: 10.1053/j.gastro.2023.09.029
+pmid: 37981354
+open_access: true
+
+specialty: gastroenterology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - Crohn's disease
+  - IBD
+tags:
+  - fecal calprotectin
+  - CRP
+  - disease monitoring
+  - subclinical inflammation
+
+publication_date: 2023-11-20
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AGA Clinical Practice Guideline on the Role of Biomarkers for the Management of Crohn's Disease
 
 ## Scope
 Evidence-based recommendations on the use of fecal calprotectin and serum CRP in monitoring and managing Crohn's disease.

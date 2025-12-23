@@ -1,11 +1,38 @@
-# NICE Guideline: Depression in Adults - Treatment and Management
+---
+id: nice-depression-2022
+title: "NICE Guideline: Depression in Adults - Treatment and Management"
+short_title: "NICE Depression 2022"
 
-## Metadata
-- **Specialty**: Psychiatry
-- **Organization**: National Institute for Health and Care Excellence (NICE)
-- **Year**: 2022 (Updated 2024)
-- **Guideline Number**: NG222
-- **Source URL**: https://www.nice.org.uk/guidance/ng222
+organization: National Institute for Health and Care Excellence
+collaborators: null
+country: UK
+url: https://www.nice.org.uk/guidance/ng222
+doi: null
+pmid: null
+open_access: true
+
+specialty: psychiatry
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - depression
+  - major depressive disorder
+tags:
+  - CBT
+  - antidepressants
+  - relapse prevention
+  - stepped care
+
+publication_date: 2022-06-29
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Comprehensive guideline for identifying, treating, and managing depression in adults aged 18 and over, including first episodes, further-line treatments, relapse prevention, and special populations.

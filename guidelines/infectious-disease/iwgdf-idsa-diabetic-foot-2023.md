@@ -1,12 +1,42 @@
-# IWGDF/IDSA Guidelines on the Diagnosis and Treatment of Diabetes-Related Foot Infections
+---
+id: iwgdf-idsa-diabetic-foot-2023
+title: "IWGDF/IDSA Guidelines on the Diagnosis and Treatment of Diabetes-Related Foot Infections"
+short_title: "IWGDF/IDSA Diabetic Foot 2023"
 
-## Metadata
-- **Specialty**: Infectious Disease, Endocrinology
-- **Organization**: International Working Group on the Diabetic Foot (IWGDF), Infectious Diseases Society of America (IDSA)
-- **Year**: 2023
-- **DOI**: [10.1093/cid/ciad527](https://doi.org/10.1093/cid/ciad527)
-- **PMID**: [37779323](https://pubmed.ncbi.nlm.nih.gov/37779323/)
-- **Source URL**: https://www.idsociety.org/practice-guideline/diabetic-foot-infections/
+organization: International Working Group on the Diabetic Foot
+collaborators:
+  - Infectious Diseases Society of America
+country: null
+url: https://www.idsociety.org/practice-guideline/diabetic-foot-infections/
+doi: 10.1093/cid/ciad527
+pmid: 37779323
+open_access: true
+
+specialty: infectious-disease
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - diabetic foot infection
+  - DFI
+  - osteomyelitis
+tags:
+  - MRSA
+  - MRI
+  - bone biopsy
+  - amputation
+
+publication_date: 2023-10-01
+previous_version_date: 2012-06-15
+status: current
+supersedes: idsa-diabetic-foot-2012
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# IWGDF/IDSA Guidelines on the Diagnosis and Treatment of Diabetes-Related Foot Infections
 
 ## Scope
 Evidence-based recommendations for diagnosis and treatment of diabetes-related foot infections (DFI), including soft tissue infections and osteomyelitis.

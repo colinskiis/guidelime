@@ -1,10 +1,38 @@
-# AASM Clinical Practice Guideline: OSA in Hospitalized Adults
+---
+id: aasm-osa-hospitalized-2025
+title: "AASM Clinical Practice Guideline: OSA in Hospitalized Adults"
+short_title: "AASM OSA Hospitalized 2025"
 
-## Metadata
-- **Specialty**: Sleep Medicine, Hospital Medicine
-- **Organization**: American Academy of Sleep Medicine (AASM)
-- **Year**: 2025
-- **Source URL**: https://aasm.org/new-guideline-establishes-clinical-recommendations-for-sleep-apnea-in-hospitalized-adults/
+organization: American Academy of Sleep Medicine
+collaborators: null
+country: US
+url: https://aasm.org/new-guideline-establishes-clinical-recommendations-for-sleep-apnea-in-hospitalized-adults/
+doi: null
+pmid: null
+open_access: true
+
+specialty: sleep-medicine
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - obstructive sleep apnea
+  - OSA
+  - inpatient
+tags:
+  - hospitalization
+  - screening
+  - PAP continuation
+
+publication_date: 2025-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 First AASM clinical practice guideline providing recommendations for evaluation and management of obstructive sleep apnea in medically hospitalized adults.

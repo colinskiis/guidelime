@@ -1,13 +1,46 @@
+---
+id: acc-aha-cholesterol-2018
+title: "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol"
+short_title: "AHA/ACC Cholesterol 2018"
+
+organization: American Heart Association
+collaborators:
+  - American College of Cardiology
+  - Multi-Society
+country: US
+url: https://www.ahajournals.org/doi/10.1161/cir.0000000000000625
+doi: 10.1161/CIR.0000000000000625
+pmid: 30422335
+open_access: true
+
+specialty: cardiology
+guideline_type: clinical-practice
+evidence_system: AHA
+conditions:
+  - hypercholesterolemia
+  - lipids
+  - ASCVD risk
+tags:
+  - statins
+  - LDL-C
+  - ezetimibe
+  - PCSK9 inhibitors
+
+publication_date: 2018-11-10
+previous_version_date: 2013-11-12
+status: current
+supersedes: acc-aha-cholesterol-2013
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
 # AHA/ACC Guideline on the Management of Blood Cholesterol
 
-## Metadata
-- **Specialty**: Cardiology
-- **Organization**: American Heart Association (AHA), American College of Cardiology (ACC), Multi-Society
-- **Year**: 2018 (with 2022 ECDP Update on Nonstatin Therapies)
-- **DOI**: [10.1161/CIR.0000000000000625](https://doi.org/10.1161/CIR.0000000000000625)
-- **Source URL**: https://www.ahajournals.org/doi/10.1161/cir.0000000000000625
-
 ## Scope
+
 Evidence-based recommendations for management of blood cholesterol to reduce atherosclerotic cardiovascular disease (ASCVD) risk in adults.
 
 ## Key Recommendations

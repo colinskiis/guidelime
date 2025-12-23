@@ -1,12 +1,42 @@
-# ASAS-EULAR Recommendations for the Management of Axial Spondyloarthritis: 2022 Update
+---
+id: asas-eular-axspa-2022
+title: "ASAS-EULAR Recommendations for the Management of Axial Spondyloarthritis: 2022 Update"
+short_title: "ASAS-EULAR Axial SpA 2022"
 
-## Metadata
-- **Specialty**: Rheumatology
-- **Organization**: Assessment of SpondyloArthritis international Society (ASAS), European Alliance of Associations for Rheumatology (EULAR)
-- **Year**: 2022
-- **DOI**: [10.1136/ard-2022-223296](https://doi.org/10.1136/ard-2022-223296)
-- **PMID**: [36270658](https://pubmed.ncbi.nlm.nih.gov/36270658/)
-- **Source URL**: https://www.asas-group.org/asas-eular-recommendations-for-the-management-of-axspa-2022-update/
+organization: Assessment of SpondyloArthritis international Society
+collaborators:
+  - European Alliance of Associations for Rheumatology
+country: null
+url: https://www.asas-group.org/asas-eular-recommendations-for-the-management-of-axspa-2022-update/
+doi: 10.1136/ard-2022-223296
+pmid: 36270658
+open_access: true
+
+specialty: rheumatology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - axial spondyloarthritis
+  - ankylosing spondylitis
+  - nr-axSpA
+tags:
+  - ASDAS
+  - TNFi
+  - IL-17i
+  - JAKi
+
+publication_date: 2022-10-21
+previous_version_date: 2016-01-01
+status: current
+supersedes: asas-eular-axspa-2016
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ASAS-EULAR Recommendations for the Management of Axial Spondyloarthritis: 2022 Update
 
 ## Scope
 Evidence-based recommendations for the management of axial spondyloarthritis (axSpA), including both ankylosing spondylitis (AS) and nonradiographic axial SpA (nr-axSpA).

@@ -1,12 +1,41 @@
-# EASL Clinical Practice Guidelines on Acute-on-Chronic Liver Failure
+---
+id: easl-aclf-2023
+title: "EASL Clinical Practice Guidelines on Acute-on-Chronic Liver Failure"
+short_title: "EASL ACLF 2023"
 
-## Metadata
-- **Specialty**: Gastroenterology, Hepatology
-- **Organization**: European Association for the Study of the Liver (EASL)
-- **Year**: 2023
-- **DOI**: [10.1016/j.jhep.2023.04.021](https://doi.org/10.1016/j.jhep.2023.04.021)
-- **PMID**: [37364789](https://pubmed.ncbi.nlm.nih.gov/37364789/)
-- **Source URL**: https://www.journal-of-hepatology.eu/article/S0168-8278(23)00244-1/fulltext
+organization: European Association for the Study of the Liver
+collaborators: null
+country: null
+url: https://www.journal-of-hepatology.eu/article/S0168-8278(23)00244-1/fulltext
+doi: 10.1016/j.jhep.2023.04.021
+pmid: 37364789
+open_access: true
+
+specialty: gastroenterology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - ACLF
+  - acute-on-chronic liver failure
+  - liver cirrhosis
+tags:
+  - organ failure
+  - ICU management
+  - liver transplant
+  - CLIF-C score
+
+publication_date: 2023-06-23
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# EASL Clinical Practice Guidelines on Acute-on-Chronic Liver Failure
 
 ## Scope
 Evidence-based recommendations for the management of acute-on-chronic liver failure (ACLF), a severe form of acutely decompensated cirrhosis with organ failure(s) and high short-term mortality.

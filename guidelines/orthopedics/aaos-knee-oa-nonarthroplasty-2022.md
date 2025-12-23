@@ -1,12 +1,38 @@
-# AAOS Clinical Practice Guideline: Management of Osteoarthritis of the Knee (Nonarthroplasty)
+---
+id: aaos-knee-oa-nonarthroplasty-2022
+title: "AAOS Clinical Practice Guideline: Management of Osteoarthritis of the Knee (Nonarthroplasty)"
+short_title: "AAOS Knee OA 2022"
 
-## Metadata
-- **Specialty**: Orthopedics
-- **Organization**: American Academy of Orthopaedic Surgeons (AAOS)
-- **Year**: 2022 (Third Edition)
-- **DOI**: [10.5435/JAAOS-D-21-01233](https://doi.org/10.5435/JAAOS-D-21-01233)
-- **PMID**: [35383651](https://pubmed.ncbi.nlm.nih.gov/35383651/)
-- **Source URL**: https://www.aaos.org/oak3cpg
+organization: American Academy of Orthopaedic Surgeons
+collaborators: null
+country: US
+url: https://www.aaos.org/oak3cpg
+doi: 10.5435/JAAOS-D-21-01233
+pmid: 35383651
+open_access: true
+
+specialty: orthopedics
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - knee osteoarthritis
+  - OA
+tags:
+  - NSAIDs
+  - exercise
+  - weight management
+  - intra-articular corticosteroids
+
+publication_date: 2022-01-01
+previous_version_date: 2013-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the nonarthroplasty treatment of osteoarthritis of the knee in adults (ages 17 and older).

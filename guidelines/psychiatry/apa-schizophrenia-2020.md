@@ -1,13 +1,38 @@
-# APA Practice Guideline for the Treatment of Patients with Schizophrenia
+---
+id: apa-schizophrenia-2020
+title: "APA Practice Guideline for the Treatment of Patients with Schizophrenia"
+short_title: "APA Schizophrenia 2020"
 
-## Metadata
-- **Specialty**: Psychiatry
-- **Organization**: American Psychiatric Association (APA)
-- **Year**: 2020
-- **Version**: 3rd Edition
-- **DOI**: [10.1176/appi.ajp.2020.177901](https://doi.org/10.1176/appi.ajp.2020.177901)
-- **PMID**: [32867516](https://pubmed.ncbi.nlm.nih.gov/32867516/)
-- **Source URL**: https://psychiatryonline.org/doi/10.1176/appi.ajp.2020.177901
+organization: American Psychiatric Association
+collaborators: null
+country: US
+url: https://psychiatryonline.org/doi/10.1176/appi.ajp.2020.177901
+doi: 10.1176/appi.ajp.2020.177901
+pmid: 32867516
+open_access: false
+
+specialty: psychiatry
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - schizophrenia
+  - psychosis
+tags:
+  - clozapine
+  - LAI
+  - CBTp
+  - first episode
+
+publication_date: 2020-09-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the treatment of patients with schizophrenia, including pharmacological and psychosocial interventions.

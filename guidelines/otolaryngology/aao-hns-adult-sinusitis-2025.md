@@ -1,12 +1,39 @@
-# AAO-HNS Clinical Practice Guideline: Adult Sinusitis Update
+---
+id: aao-hns-adult-sinusitis-2025
+title: "AAO-HNS Clinical Practice Guideline: Adult Sinusitis Update"
+short_title: "AAO-HNS Adult Sinusitis 2025"
 
-## Metadata
-- **Specialty**: Otolaryngology
-- **Organization**: American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF)
-- **Year**: 2025
-- **DOI**: [10.1002/ohn.1344](https://doi.org/10.1002/ohn.1344)
-- **PMID**: [40742114](https://pubmed.ncbi.nlm.nih.gov/40742114/)
-- **Source URL**: https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/cpg-adult-sinusitis/
+organization: American Academy of Otolaryngology-Head and Neck Surgery Foundation
+collaborators: null
+country: US
+url: https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/cpg-adult-sinusitis/
+doi: 10.1002/ohn.1344
+pmid: 40742114
+open_access: false
+
+specialty: otolaryngology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - rhinosinusitis
+  - ABRS
+  - CRS
+tags:
+  - amoxicillin-clavulanate
+  - saline irrigation
+  - nasal endoscopy
+  - biologics
+
+publication_date: 2025-01-01
+previous_version_date: 2015-01-01
+status: current
+supersedes: aao-hns-adult-sinusitis-2015
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the diagnosis and management of adult rhinosinusitis, including acute and chronic forms. Update of 2015 guidelines.

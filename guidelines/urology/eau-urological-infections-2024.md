@@ -1,12 +1,43 @@
-# EAU Guidelines on Urological Infections
+---
+id: eau-urological-infections-2024
+title: "EAU Guidelines on Urological Infections"
+short_title: "EAU Uro-Infections 2024"
 
-## Metadata
-- **Specialty**: Urology, Infectious Disease
-- **Organization**: European Association of Urology (EAU)
-- **Year**: 2024
-- **DOI**: [10.1016/j.eururo.2024.04.039](https://doi.org/10.1016/j.eururo.2024.04.039)
-- **PMID**: [38714379](https://pubmed.ncbi.nlm.nih.gov/38714379/)
-- **Source URL**: https://uroweb.org/guidelines/urological-infections/chapter/the-guideline
+organization: European Association of Urology
+collaborators: null
+country: null
+url: https://uroweb.org/guidelines/urological-infections/chapter/the-guideline
+doi: 10.1016/j.eururo.2024.04.039
+pmid: 38714379
+open_access: true
+
+specialty: urology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - urinary tract infection
+  - UTI
+  - cystitis
+  - pyelonephritis
+  - prostatitis
+tags:
+  - fosfomycin
+  - nitrofurantoin
+  - ciprofloxacin
+  - antibiotic stewardship
+
+publication_date: 2024-04-01
+previous_version_date: 2023-01-01
+status: current
+supersedes: eau-uro-infections-2023
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# EAU Guidelines on Urological Infections
 
 ## Scope
 Evidence-based recommendations for diagnosis, treatment, and prevention of urinary tract infections and male accessory gland infections in adults.

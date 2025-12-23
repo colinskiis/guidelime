@@ -1,12 +1,38 @@
-# AASM Clinical Practice Guideline: Treatment of Adult Obstructive Sleep Apnea with Positive Airway Pressure
+---
+id: aasm-osa-pap-2019
+title: "AASM Clinical Practice Guideline: Treatment of Adult Obstructive Sleep Apnea with Positive Airway Pressure"
+short_title: "AASM OSA PAP 2019"
 
-## Metadata
-- **Specialty**: Sleep Medicine
-- **Organization**: American Academy of Sleep Medicine (AASM)
-- **Year**: 2019
-- **DOI**: [10.5664/jcsm.7640](https://doi.org/10.5664/jcsm.7640)
-- **PMID**: [30736887](https://pubmed.ncbi.nlm.nih.gov/30736887/)
-- **Source URL**: https://jcsm.aasm.org/doi/10.5664/jcsm.7640
+organization: American Academy of Sleep Medicine
+collaborators: null
+country: US
+url: https://jcsm.aasm.org/doi/10.5664/jcsm.7640
+doi: 10.5664/jcsm.7640
+pmid: 30736887
+open_access: true
+
+specialty: sleep-medicine
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - obstructive sleep apnea
+  - OSA
+tags:
+  - PAP
+  - CPAP
+  - APAP
+  - adherence
+
+publication_date: 2019-02-15
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Clinical practice recommendations for positive airway pressure (PAP) treatment of obstructive sleep apnea (OSA) in adults.

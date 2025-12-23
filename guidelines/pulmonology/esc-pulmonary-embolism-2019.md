@@ -1,12 +1,42 @@
-# ESC/ERS Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism
+---
+id: esc-pulmonary-embolism-2019
+title: "ESC/ERS Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism"
+short_title: "ESC PE 2019"
 
-## Metadata
-- **Specialty**: Pulmonology, Cardiology
-- **Organization**: European Society of Cardiology (ESC), European Respiratory Society (ERS)
-- **Year**: 2019 (with 2024 guideline comparisons)
-- **DOI**: [10.1093/eurheartj/ehz405](https://doi.org/10.1093/eurheartj/ehz405)
-- **PMID**: [31504429](https://pubmed.ncbi.nlm.nih.gov/31504429/)
-- **Source URL**: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Acute-Pulmonary-Embolism-Diagnosis-and-Management-of
+organization: European Society of Cardiology
+collaborators:
+  - European Respiratory Society
+country: null
+url: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Acute-Pulmonary-Embolism-Diagnosis-and-Management-of
+doi: 10.1093/eurheartj/ehz405
+pmid: 31504429
+open_access: true
+
+specialty: pulmonology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - pulmonary embolism
+  - venous thromboembolism
+  - VTE
+tags:
+  - D-dimer
+  - CTPA
+  - thrombolysis
+  - DOAC
+
+publication_date: 2019-08-31
+previous_version_date: 2014-01-01
+status: current
+supersedes: esc-pe-2014
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ESC/ERS Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism
 
 ## Scope
 Comprehensive guidelines for diagnosis, risk stratification, and management of acute pulmonary embolism.

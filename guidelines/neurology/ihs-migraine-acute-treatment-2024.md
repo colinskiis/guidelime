@@ -1,12 +1,40 @@
-# IHS Global Practice Recommendations for Acute Pharmacological Treatment of Migraine
+---
+id: ihs-migraine-acute-treatment-2024
+title: "IHS Global Practice Recommendations for Acute Pharmacological Treatment of Migraine"
+short_title: "IHS Migraine Acute 2024"
 
-## Metadata
-- **Specialty**: Neurology
-- **Organization**: International Headache Society (IHS)
-- **Year**: 2024
-- **DOI**: [10.1177/03331024241252666](https://doi.org/10.1177/03331024241252666)
-- **PMID**: [39133176](https://pubmed.ncbi.nlm.nih.gov/39133176/)
-- **Source URL**: https://ihs-headache.org/en/resources/guidelines/
+organization: International Headache Society
+collaborators: null
+country: null
+url: https://ihs-headache.org/en/resources/guidelines/
+doi: 10.1177/03331024241252666
+pmid: 39133176
+open_access: true
+
+specialty: neurology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - migraine
+  - headache
+tags:
+  - triptans
+  - NSAIDs
+  - gepants
+  - lasmiditan
+
+publication_date: 2024-05-13
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# IHS Global Practice Recommendations for Acute Pharmacological Treatment of Migraine
 
 ## Scope
 Global practice recommendations for the acute pharmacological treatment of migraine in adults, designed for all clinical settings including those with limited resources.

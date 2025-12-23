@@ -1,11 +1,38 @@
-# AAP Clinical Practice Guideline: Diagnosis, Management, and Prevention of Bronchiolitis
+---
+id: aap-bronchiolitis-2014
+title: "AAP Clinical Practice Guideline: Diagnosis, Management, and Prevention of Bronchiolitis"
+short_title: "AAP Bronchiolitis 2014"
 
-## Metadata
-- **Specialty**: Pediatrics
-- **Organization**: American Academy of Pediatrics (AAP)
-- **Year**: 2014 (with 2023-2024 prevention updates)
-- **PMID**: [25349312](https://pubmed.ncbi.nlm.nih.gov/25349312/)
-- **Source URL**: https://publications.aap.org/pediatrics/article/134/5/e1474/75848/
+organization: American Academy of Pediatrics
+collaborators: null
+country: US
+url: https://publications.aap.org/pediatrics/article/134/5/e1474/75848/
+doi: null
+pmid: 25349312
+open_access: true
+
+specialty: pediatrics
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - bronchiolitis
+  - RSV
+tags:
+  - supportive care
+  - nirsevimab
+  - RSV prevention
+  - pediatric emergency
+
+publication_date: 2014-11-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for diagnosis, management, and prevention of bronchiolitis in children 1-23 months of age.

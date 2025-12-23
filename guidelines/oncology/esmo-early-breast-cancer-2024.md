@@ -1,12 +1,40 @@
-# ESMO Clinical Practice Guideline: Early Breast Cancer
+---
+id: esmo-early-breast-cancer-2024
+title: "ESMO Clinical Practice Guideline: Early Breast Cancer"
+short_title: "ESMO Early Breast Cancer 2024"
 
-## Metadata
-- **Specialty**: Oncology
-- **Organization**: European Society for Medical Oncology (ESMO)
-- **Year**: 2024
-- **DOI**: [10.1016/j.annonc.2023.11.016](https://doi.org/10.1016/j.annonc.2023.11.016)
-- **PMID**: [38101773](https://pubmed.ncbi.nlm.nih.gov/38101773/)
-- **Source URL**: https://www.esmo.org/guidelines/esmo-clinical-practice-guideline-early-breast-cancer
+organization: European Society for Medical Oncology
+collaborators: null
+country: null
+url: https://www.esmo.org/guidelines/esmo-clinical-practice-guideline-early-breast-cancer
+doi: 10.1016/j.annonc.2023.11.016
+pmid: 38101773
+open_access: true
+
+specialty: oncology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - early breast cancer
+  - invasive breast cancer
+tags:
+  - neoadjuvant therapy
+  - endocrine therapy
+  - HER2-targeted therapy
+  - surgery
+
+publication_date: 2024-02-01
+previous_version_date: 2019-01-01
+status: current
+supersedes: esmo-breast-legacy
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ESMO Clinical Practice Guideline: Early Breast Cancer
 
 ## Scope
 Comprehensive guidelines for diagnosis, treatment, and follow-up of early breast cancer.

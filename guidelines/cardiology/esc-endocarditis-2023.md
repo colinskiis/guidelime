@@ -1,12 +1,40 @@
-# ESC Guidelines for the Management of Endocarditis
+---
+id: esc-endocarditis-2023
+title: "2023 ESC Guidelines for the Management of Endocarditis"
+short_title: "ESC Endocarditis 2023"
 
-## Metadata
-- **Specialty**: Cardiology, Infectious Disease
-- **Organization**: European Society of Cardiology (ESC)
-- **Year**: 2023
-- **DOI**: [10.1093/eurheartj/ehad193](https://doi.org/10.1093/eurheartj/ehad193)
-- **PMID**: [37622656](https://pubmed.ncbi.nlm.nih.gov/37622656/)
-- **Source URL**: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Endocarditis-Guidelines
+organization: European Society of Cardiology
+collaborators: null
+country: null
+url: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Endocarditis-Guidelines
+doi: 10.1093/eurheartj/ehad193
+pmid: 37622656
+open_access: true
+
+specialty: cardiology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - infective endocarditis
+  - heart valve infection
+tags:
+  - Duke criteria
+  - echocardiography
+  - antibiotics
+  - prosthetic valves
+
+publication_date: 2023-08-25
+previous_version_date: 2015-08-29
+status: current
+supersedes: esc-endocarditis-2015
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ESC Guidelines for the Management of Endocarditis
 
 ## Scope
 Comprehensive guidelines for the diagnosis, treatment, and prevention of infective endocarditis.

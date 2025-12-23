@@ -1,12 +1,41 @@
-# NCCN Clinical Practice Guidelines in Oncology: Breast Cancer
+---
+id: nccn-breast-cancer-2024
+title: "NCCN Clinical Practice Guidelines in Oncology: Breast Cancer"
+short_title: "NCCN Breast Cancer 2024"
 
-## Metadata
-- **Specialty**: Oncology
-- **Organization**: National Comprehensive Cancer Network (NCCN)
-- **Year**: 2024 (Version 3)
-- **DOI**: [10.6004/jnccn.2024.0035](https://doi.org/10.6004/jnccn.2024.0035)
-- **PMID**: [39019058](https://pubmed.ncbi.nlm.nih.gov/39019058/)
-- **Source URL**: https://www.nccn.org/guidelines/guidelines-detail?id=1419
+organization: National Comprehensive Cancer Network
+collaborators: null
+country: US
+url: https://www.nccn.org/guidelines/guidelines-detail?id=1419
+doi: 10.6004/jnccn.2024.0035
+pmid: 39019058
+open_access: true
+
+specialty: oncology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - breast cancer
+  - invasive breast cancer
+  - DCIS
+tags:
+  - receptor status
+  - CDK4/6 inhibitors
+  - TNBC
+  - HER2-positive
+
+publication_date: 2024-03-11
+previous_version_date: 2023-12-01
+status: current
+supersedes: nccn-breast-2023
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# NCCN Clinical Practice Guidelines in Oncology: Breast Cancer
 
 ## Scope
 Comprehensive recommendations for the clinical management of breast cancer, including carcinoma in situ, invasive breast cancer, inflammatory breast cancer, and special situations.

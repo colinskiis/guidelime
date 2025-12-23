@@ -1,12 +1,39 @@
-# AAP Clinical Practice Guideline: Urinary Tract Infection in Febrile Infants and Children 2-24 Months
+---
+id: aap-uti-2011
+title: "AAP Clinical Practice Guideline: Urinary Tract Infection in Febrile Infants and Children 2-24 Months"
+short_title: "AAP UTI 2011"
 
-## Metadata
-- **Specialty**: Pediatrics
-- **Organization**: American Academy of Pediatrics (AAP)
-- **Year**: 2011 (Reaffirmed 2016)
-- **DOI**: [10.1542/peds.2011-1330](https://doi.org/10.1542/peds.2011-1330)
-- **PMID**: [21873693](https://pubmed.ncbi.nlm.nih.gov/21873693/)
-- **Source URL**: https://publications.aap.org/pediatrics/article/128/3/595/30962/
+organization: American Academy of Pediatrics
+collaborators: null
+country: US
+url: https://publications.aap.org/pediatrics/article/128/3/595/30962/
+doi: 10.1542/peds.2011-1330
+pmid: 21873693
+open_access: true
+
+specialty: pediatrics
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - urinary tract infection
+  - UTI
+  - fever
+tags:
+  - catheterization
+  - pyelonephritis
+  - renal ultrasound
+  - VUR
+
+publication_date: 2011-09-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for diagnosis and management of initial urinary tract infection in febrile infants and young children 2-24 months of age.

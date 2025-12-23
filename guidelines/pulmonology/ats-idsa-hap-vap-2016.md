@@ -1,12 +1,43 @@
-# ATS/IDSA Guidelines for Management of Adults with Hospital-Acquired and Ventilator-Associated Pneumonia
+---
+id: ats-idsa-hap-vap-2016
+title: "ATS/IDSA Guidelines for Management of Adults with Hospital-Acquired and Ventilator-Associated Pneumonia"
+short_title: "ATS/IDSA HAP/VAP 2016"
 
-## Metadata
-- **Specialty**: Pulmonology, Infectious Disease, Critical Care
-- **Organization**: American Thoracic Society (ATS), Infectious Diseases Society of America (IDSA)
-- **Year**: 2016
-- **DOI**: [10.1093/cid/ciw353](https://doi.org/10.1093/cid/ciw353)
-- **PMID**: [27418577](https://pubmed.ncbi.nlm.nih.gov/27418577/)
-- **Source URL**: https://academic.oup.com/cid/article/63/5/e61/2237650
+organization: American Thoracic Society
+collaborators:
+  - Infectious Diseases Society of America
+country: US
+url: https://academic.oup.com/cid/article/63/5/e61/2237650
+doi: 10.1093/cid/ciw353
+pmid: 27418577
+open_access: true
+
+specialty: pulmonology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - hospital-acquired pneumonia
+  - ventilator-associated pneumonia
+  - HAP
+  - VAP
+tags:
+  - Pseudomonas
+  - MRSA
+  - antibiogram
+  - 7-day course
+
+publication_date: 2016-09-01
+previous_version_date: 2005-01-01
+status: current
+supersedes: ats-idsa-hap-2005
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ATS/IDSA Guidelines for Management of Adults with Hospital-Acquired and Ventilator-Associated Pneumonia
 
 ## Scope
 Evidence-based recommendations for diagnosis and treatment of hospital-acquired pneumonia (HAP) and ventilator-associated pneumonia (VAP) in nonimmunocompromised adults.

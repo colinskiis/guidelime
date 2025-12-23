@@ -1,12 +1,41 @@
-# AAN/AES Guideline: Management of an Unprovoked First Seizure in Adults
+---
+id: aan-first-seizure-2015
+title: "AAN/AES Guideline: Management of an Unprovoked First Seizure in Adults"
+short_title: "AAN First Seizure 2015"
 
-## Metadata
-- **Specialty**: Neurology
-- **Organization**: American Academy of Neurology (AAN), American Epilepsy Society (AES)
-- **Year**: 2015 (Reaffirmed 2024)
-- **DOI**: [10.1212/WNL.0000000000001487](https://doi.org/10.1212/WNL.0000000000001487)
-- **PMID**: [25901057](https://pubmed.ncbi.nlm.nih.gov/25901057/)
-- **Source URL**: https://www.aan.com/Guidelines/home/GuidelineDetail/687
+organization: American Academy of Neurology
+collaborators:
+  - American Epilepsy Society
+country: US
+url: https://www.aan.com/Guidelines/home/GuidelineDetail/687
+doi: 10.1212/WNL.0000000000001487
+pmid: 25901057
+open_access: true
+
+specialty: neurology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - unprovoked first seizure
+  - epilepsy
+tags:
+  - recurrence risk
+  - EEG
+  - MRI
+  - AED therapy
+
+publication_date: 2015-04-21
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AAN/AES Guideline: Management of an Unprovoked First Seizure in Adults
 
 ## Scope
 Evidence-based recommendations for prognosis assessment and treatment decisions in adults presenting with an unprovoked first seizure.

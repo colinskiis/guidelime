@@ -1,12 +1,40 @@
-# ACG Clinical Guideline: Management of Irritable Bowel Syndrome
+---
+id: acg-ibs-2021
+title: "ACG Clinical Guideline: Management of Irritable Bowel Syndrome"
+short_title: "ACG IBS 2021"
 
-## Metadata
-- **Specialty**: Gastroenterology
-- **Organization**: American College of Gastroenterology (ACG)
-- **Year**: 2021
-- **DOI**: [10.14309/ajg.0000000000001036](https://doi.org/10.14309/ajg.0000000000001036)
-- **PMID**: [33315591](https://pubmed.ncbi.nlm.nih.gov/33315591/)
-- **Source URL**: https://journals.lww.com/ajg/fulltext/2021/01000/acg_clinical_guideline__management_of_irritable.10.aspx
+organization: American College of Gastroenterology
+collaborators: null
+country: US
+url: https://journals.lww.com/ajg/fulltext/2021/01000/acg_clinical_guideline__management_of_irritable.10.aspx
+doi: 10.14309/ajg.0000000000001036
+pmid: 33315591
+open_access: true
+
+specialty: gastroenterology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - irritable bowel syndrome
+  - IBS
+tags:
+  - low FODMAP diet
+  - rifaximin
+  - linaclotide
+  - psyllium
+
+publication_date: 2021-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ACG Clinical Guideline: Management of Irritable Bowel Syndrome
 
 ## Scope
 First ACG clinical guideline for IBS management using GRADE methodology, addressing diagnostic testing and therapeutic options for all IBS subtypes.

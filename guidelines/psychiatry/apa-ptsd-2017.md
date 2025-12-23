@@ -1,12 +1,38 @@
-# APA Clinical Practice Guideline for the Treatment of PTSD in Adults
+---
+id: apa-ptsd-2017
+title: "APA Clinical Practice Guideline for the Treatment of PTSD in Adults"
+short_title: "APA PTSD 2017"
 
-## Metadata
-- **Specialty**: Psychiatry/Psychology
-- **Organization**: American Psychological Association (APA)
-- **Year**: 2017 (Summary published 2019; Updated 2025)
-- **DOI**: [10.1037/amp0000473](https://doi.org/10.1037/amp0000473)
-- **PMID**: [31305099](https://pubmed.ncbi.nlm.nih.gov/31305099/)
-- **Source URL**: https://www.apa.org/ptsd-guideline
+organization: American Psychological Association
+collaborators: null
+country: US
+url: https://www.apa.org/ptsd-guideline
+doi: 10.1037/amp0000473
+pmid: 31305099
+open_access: false
+
+specialty: psychiatry
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - PTSD
+  - trauma
+tags:
+  - CBT
+  - exposure therapy
+  - EMDR
+  - pharmacology
+
+publication_date: 2017-02-24
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for psychological and pharmacological treatments for posttraumatic stress disorder (PTSD) in adults.

@@ -1,12 +1,41 @@
-# EASL-ERN Clinical Practice Guidelines on Wilson's Disease
+---
+id: easl-wilson-disease-2025
+title: "EASL-ERN Clinical Practice Guidelines on Wilson's Disease"
+short_title: "EASL Wilson's Disease 2025"
 
-## Metadata
-- **Specialty**: Hepatology, Neurology
-- **Organization**: European Association for the Study of the Liver (EASL), European Reference Network (ERN)
-- **Year**: 2025
-- **DOI**: [10.1016/j.jhep.2024.11.007](https://doi.org/10.1016/j.jhep.2024.11.007)
-- **PMID**: [40089450](https://pubmed.ncbi.nlm.nih.gov/40089450/)
-- **Source URL**: https://www.journal-of-hepatology.eu/article/S0168-8278(24)02706-5/fulltext
+organization: European Association for the Study of the Liver
+collaborators:
+  - European Reference Network
+country: EU
+url: https://www.journal-of-hepatology.eu/article/S0168-8278(24)02706-5/fulltext
+doi: 10.1016/j.jhep.2024.11.007
+pmid: 40089450
+open_access: true
+
+specialty: hepatology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - Wilson's disease
+  - liver disease
+  - copper metabolism disorder
+tags:
+  - chelation
+  - D-penicillamine
+  - trientine
+  - zinc
+  - liver transplant
+
+publication_date: 2025-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the diagnosis and management of Wilson's disease, a rare inherited disorder of copper metabolism.

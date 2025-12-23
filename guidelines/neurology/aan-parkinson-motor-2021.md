@@ -1,11 +1,40 @@
-# AAN Practice Guideline: Dopaminergic Therapy for Motor Symptoms in Early Parkinson Disease
+---
+id: aan-parkinson-motor-2021
+title: "AAN Practice Guideline: Dopaminergic Therapy for Motor Symptoms in Early Parkinson Disease"
+short_title: "AAN Parkinson PD 2021"
 
-## Metadata
-- **Specialty**: Neurology
-- **Organization**: American Academy of Neurology (AAN)
-- **Year**: 2021 (Reaffirmed 2025)
-- **DOI**: [10.1212/WNL.0000000000012868](https://doi.org/10.1212/WNL.0000000000012868)
-- **Source URL**: https://www.aan.com/Guidelines/home/GuidelineDetail/1043
+organization: American Academy of Neurology
+collaborators: null
+country: US
+url: https://www.aan.com/Guidelines/home/GuidelineDetail/1043
+doi: 10.1212/WNL.0000000000012868
+pmid: 34782417
+open_access: true
+
+specialty: neurology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - Parkinson disease
+  - Parkinson's disease
+tags:
+  - levodopa
+  - dopamine agonists
+  - MAO-B inhibitors
+  - motor complications
+
+publication_date: 2021-11-16
+previous_version_date: 2002-01-01
+status: current
+supersedes: aan-parkinson-legacy
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AAN Practice Guideline: Dopaminergic Therapy for Motor Symptoms in Early Parkinson Disease
 
 ## Scope
 Evidence-based recommendations for dopaminergic therapy in early Parkinson disease, including levodopa, dopamine agonists, and MAO-B inhibitors.

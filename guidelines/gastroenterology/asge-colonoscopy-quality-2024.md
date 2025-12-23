@@ -1,11 +1,41 @@
-# ASGE/ACG Quality Indicators for Colonoscopy
+---
+id: asge-colonoscopy-quality-2024
+title: "ASGE/ACG Quality Indicators for Colonoscopy"
+short_title: "ASGE Colonoscopy Quality 2024"
 
-## Metadata
-- **Specialty**: Gastroenterology
-- **Organization**: American Society for Gastrointestinal Endoscopy (ASGE), American College of Gastroenterology (ACG)
-- **Year**: 2024
-- **DOI**: [10.1016/j.gie.2024.04.2905](https://doi.org/10.1016/j.gie.2024.04.2905)
-- **Source URL**: https://www.asge.org/home/resources/publications/guidelines
+organization: American Society for Gastrointestinal Endoscopy
+collaborators:
+  - American College of Gastroenterology
+country: US
+url: https://www.asge.org/home/resources/publications/guidelines
+doi: 10.1016/j.gie.2024.04.2905
+pmid: 38857482
+open_access: true
+
+specialty: gastroenterology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - colonoscopy
+  - colorectal cancer screening
+tags:
+  - ADR
+  - cecal intubation
+  - bowel preparation
+  - quality indicators
+
+publication_date: 2024-06-01
+previous_version_date: 2015-01-01
+status: current
+supersedes: asge-colonoscopy-2015
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ASGE/ACG Quality Indicators for Colonoscopy
 
 ## Scope
 Updated quality indicators for colonoscopy to measure and improve the quality of colonoscopy performance, reflecting new evidence since 2015.

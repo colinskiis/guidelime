@@ -1,11 +1,38 @@
-# ASCRS Clinical Practice Guidelines: Preventing Surgical Site Infection
+---
+id: ascrs-ssi-prevention-2024
+title: "ASCRS Clinical Practice Guidelines: Preventing Surgical Site Infection"
+short_title: "ASCRS SSI Prevention 2024"
 
-## Metadata
-- **Specialty**: Colorectal Surgery
-- **Organization**: American Society of Colon and Rectal Surgeons (ASCRS)
-- **Year**: 2024
-- **DOI**: [10.1097/DCR.0000000000003203](https://doi.org/10.1097/DCR.0000000000003203)
-- **Source URL**: https://journals.lww.com/dcrjournal
+organization: American Society of Colon and Rectal Surgeons
+collaborators: null
+country: US
+url: https://journals.lww.com/dcrjournal/fulltext/2024/03000/clinical_practice_guidelines_for_the_prevention_of.8.aspx
+doi: 10.1097/DCR.0000000000003203
+pmid: null
+open_access: false
+
+specialty: colorectal-surgery
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - surgical site infection
+  - SSI prevention
+tags:
+  - mechanical bowel preparation
+  - oral antibiotics
+  - normothermia
+  - SSI bundles
+
+publication_date: 2024-03-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 First ASCRS clinical practice guideline specifically addressing prevention of surgical site infections in colorectal surgery.

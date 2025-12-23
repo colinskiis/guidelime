@@ -1,11 +1,42 @@
-# ESC Guidelines for the Management of Cardiovascular Disease in Patients with Diabetes
+---
+id: esc-diabetes-cvd-2023
+title: "2023 ESC Guidelines for the Management of Cardiovascular Disease in Patients with Diabetes"
+short_title: "ESC Diabetes & CVD 2023"
 
-## Metadata
-- **Specialty**: Cardiology, Endocrinology
-- **Organization**: European Society of Cardiology (ESC)
-- **Year**: 2023
-- **DOI**: [10.1093/eurheartj/ehad192](https://doi.org/10.1093/eurheartj/ehad192)
-- **Source URL**: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/CVD-and-Diabetes-Guidelines
+organization: European Society of Cardiology
+collaborators: null
+country: null
+url: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/CVD-and-Diabetes-Guidelines
+doi: 10.1093/eurheartj/ehad192
+pmid: 37622660
+open_access: true
+
+specialty: cardiology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - diabetes
+  - type 2 diabetes
+  - heart failure
+  - ASCVD
+tags:
+  - SGLT2 inhibitors
+  - GLP-1 RAs
+  - glycemic control
+  - chronic kidney disease
+
+publication_date: 2023-08-25
+previous_version_date: 2019-08-31
+status: current
+supersedes: esc-diabetes-2019
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ESC Guidelines for the Management of Cardiovascular Disease in Patients with Diabetes
 
 ## Scope
 Evidence-based recommendations for prevention and management of cardiovascular disease in patients with type 1 and type 2 diabetes.

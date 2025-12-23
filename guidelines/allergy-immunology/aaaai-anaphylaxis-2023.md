@@ -1,12 +1,39 @@
-# Anaphylaxis: A 2023 Practice Parameter Update
+---
+id: aaaai-anaphylaxis-2023
+title: "Anaphylaxis: A 2023 Practice Parameter Update"
+short_title: "Anaphylaxis Practice Parameter 2023"
 
-## Metadata
-- **Specialty**: Allergy and Immunology
-- **Organization**: American Academy of Allergy, Asthma & Immunology (AAAAI), American College of Allergy, Asthma & Immunology (ACAAI)
-- **Year**: 2023
-- **DOI**: [10.1016/j.anai.2023.09.015](https://doi.org/10.1016/j.anai.2023.09.015)
-- **PMID**: [38108678](https://pubmed.ncbi.nlm.nih.gov/38108678/)
-- **Source URL**: https://www.annallergy.org/article/S1081-1206(23)01304-2/fulltext
+organization: American Academy of Allergy, Asthma & Immunology
+collaborators:
+  - American College of Allergy, Asthma & Immunology
+country: US
+url: https://www.annallergy.org/article/S1081-1206(23)01304-2/fulltext
+doi: 10.1016/j.anai.2023.09.015
+pmid: 38108678
+open_access: true
+
+specialty: allergy-immunology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - anaphylaxis
+  - hypersensitivity
+tags:
+  - epinephrine
+  - tryptase
+  - mast cell disorders
+  - emergency care
+
+publication_date: 2023-12-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Updated practice parameter for diagnosis and management of anaphylaxis, with emphasis on epinephrine use and recognition of underlying mast cell disorders.

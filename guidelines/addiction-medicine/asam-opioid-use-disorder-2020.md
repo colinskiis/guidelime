@@ -1,12 +1,39 @@
-# ASAM National Practice Guideline for the Treatment of Opioid Use Disorder
+---
+id: asam-opioid-use-disorder-2020
+title: "ASAM National Practice Guideline for the Treatment of Opioid Use Disorder (2020 Focused Update)"
+short_title: "ASAM Opioid Use Disorder 2020"
 
-## Metadata
-- **Specialty**: Addiction Medicine, Psychiatry
-- **Organization**: American Society of Addiction Medicine (ASAM)
-- **Year**: 2020 (Focused Update)
-- **DOI**: [10.1097/ADM.0000000000000633](https://doi.org/10.1097/ADM.0000000000000633)
-- **PMID**: [32511106](https://pubmed.ncbi.nlm.nih.gov/32511106/)
-- **Source URL**: https://www.asam.org/quality-care/clinical-guidelines/national-practice-guideline
+organization: American Society of Addiction Medicine
+collaborators: null
+country: US
+url: https://www.asam.org/quality-care/clinical-guidelines/national-practice-guideline
+doi: 10.1097/ADM.0000000000000633
+pmid: 32511106
+open_access: true
+
+specialty: addiction-medicine
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - opioid use disorder
+  - OUD
+  - addiction
+tags:
+  - methadone
+  - buprenorphine
+  - naltrexone
+  - MOUD
+
+publication_date: 2020-03-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the treatment of opioid use disorder (OUD) using FDA-approved medications, including methadone, buprenorphine, and naltrexone.

@@ -1,12 +1,41 @@
-# AUA/ASTRO Guideline: Clinically Localized Prostate Cancer
+---
+id: aua-astro-prostate-localized-2022
+title: "AUA/ASTRO Guideline: Clinically Localized Prostate Cancer"
+short_title: "AUA/ASTRO Localized Prostate 2022"
 
-## Metadata
-- **Specialty**: Oncology, Urology
-- **Organization**: American Urological Association (AUA), American Society for Radiation Oncology (ASTRO)
-- **Year**: 2022
-- **DOI**: [10.1097/JU.0000000000002757](https://doi.org/10.1097/JU.0000000000002757)
-- **PMID**: [35536144](https://pubmed.ncbi.nlm.nih.gov/35536144/)
-- **Source URL**: https://www.auanet.org/guidelines-and-quality/guidelines/clinically-localized-prostate-cancer-aua/astro-guideline-2022
+organization: American Urological Association
+collaborators:
+  - American Society for Radiation Oncology
+country: US
+url: https://www.auanet.org/guidelines-and-quality/guidelines/clinically-localized-prostate-cancer-aua/astro-guideline-2022
+doi: 10.1097/JU.0000000000002757
+pmid: 35536144
+open_access: true
+
+specialty: oncology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - clinically localized prostate cancer
+  - prostate cancer
+tags:
+  - active surveillance
+  - radical prostatectomy
+  - radiation therapy
+  - ADT
+
+publication_date: 2022-05-10
+previous_version_date: 2017-01-01
+status: current
+supersedes: aua-prostate-legacy
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AUA/ASTRO Guideline: Clinically Localized Prostate Cancer
 
 ## Scope
 Evidence-based recommendations for risk assessment, staging, and management of clinically localized prostate cancer.

@@ -1,11 +1,38 @@
-# ACIP Recommended Adult Immunization Schedule — United States, 2025
+---
+id: acip-adult-immunization-2025
+title: "ACIP Recommended Adult Immunization Schedule — United States, 2025"
+short_title: "ACIP Adult Immunization 2025"
 
-## Metadata
-- **Specialty**: Preventive Medicine, Immunization
-- **Organization**: Advisory Committee on Immunization Practices (ACIP), CDC
-- **Year**: 2025
-- **PMID**: [39820474](https://pubmed.ncbi.nlm.nih.gov/39820474/)
-- **Source URL**: https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html
+organization: Advisory Committee on Immunization Practices
+collaborators: null
+country: US
+url: https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html
+doi: null
+pmid: 39820474
+open_access: true
+
+specialty: general-preventive
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - immunization
+  - vaccination
+tags:
+  - influenza
+  - RSV
+  - COVID-19
+  - pneumococcal
+
+publication_date: 2025-01-01
+previous_version_date: 2024-01-01
+status: current
+supersedes: acip-adult-immunization-2024
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Consolidated summary of ACIP recommendations for adult vaccination (ages 19 years and older).

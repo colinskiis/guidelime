@@ -1,12 +1,39 @@
-# Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock
+---
+id: ssc-sepsis-2021
+title: "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock"
+short_title: "SSC Sepsis 2021"
 
-## Metadata
-- **Specialty**: Critical Care, Infectious Disease
-- **Organization**: Society of Critical Care Medicine (SCCM), European Society of Intensive Care Medicine (ESICM)
-- **Year**: 2021
-- **DOI**: [10.1097/CCM.0000000000005337](https://doi.org/10.1097/CCM.0000000000005337)
-- **PMID**: [34605781](https://pubmed.ncbi.nlm.nih.gov/34605781/)
-- **Source URL**: https://www.sccm.org/survivingsepsiscampaign
+organization: Society of Critical Care Medicine
+collaborators:
+  - European Society of Intensive Care Medicine
+country: null
+url: https://www.sccm.org/survivingsepsiscampaign
+doi: 10.1097/CCM.0000000000005337
+pmid: 34605781
+open_access: true
+
+specialty: critical-care
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - sepsis
+  - septic shock
+tags:
+  - initial resuscitation
+  - vasopressors
+  - Hour-1 bundle
+  - dynamic measures
+
+publication_date: 2021-10-01
+previous_version_date: 2016-01-01
+status: current
+supersedes: ssc-sepsis-2016
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based international guidelines for the management of sepsis and septic shock in adults, endorsed by 24 international societies.

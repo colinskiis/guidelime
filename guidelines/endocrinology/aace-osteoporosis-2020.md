@@ -1,12 +1,41 @@
-# AACE/ACE Clinical Practice Guidelines for Diagnosis and Treatment of Postmenopausal Osteoporosis
+---
+id: aace-osteoporosis-2020
+title: "AACE/ACE Clinical Practice Guidelines for Diagnosis and Treatment of Postmenopausal Osteoporosis"
+short_title: "AACE Osteoporosis 2020"
 
-## Metadata
-- **Specialty**: Endocrinology
-- **Organization**: American Association of Clinical Endocrinologists (AACE), American College of Endocrinology (ACE)
-- **Year**: 2020
-- **DOI**: [10.4158/GL-2020-0524SUPPL](https://doi.org/10.4158/GL-2020-0524SUPPL)
-- **PMID**: [32427503](https://pubmed.ncbi.nlm.nih.gov/32427503/)
-- **Source URL**: https://pro.aace.com/clinical-guidance/2020-clinical-practice-guidelines-diagnosis-and-treatment-postmenopausal
+organization: American Association of Clinical Endocrinologists
+collaborators:
+  - American College of Endocrinology
+country: US
+url: https://pro.aace.com/clinical-guidance/2020-clinical-practice-guidelines-diagnosis-and-treatment-postmenopausal
+doi: 10.4158/GL-2020-0524SUPPL
+pmid: 32427503
+open_access: true
+
+specialty: endocrinology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - postmenopausal osteoporosis
+  - osteopenia
+tags:
+  - DXA scan
+  - bisphosphonates
+  - anabolic agents
+  - FRAX
+
+publication_date: 2020-05-01
+previous_version_date: 2016-01-01
+status: current
+supersedes: aace-osteoporosis-2016
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AACE/ACE Clinical Practice Guidelines for Diagnosis and Treatment of Postmenopausal Osteoporosis
 
 ## Scope
 Evidence-based guidelines for diagnosis, evaluation, and treatment of postmenopausal osteoporosis with updated recommendations on risk stratification and therapeutic options.

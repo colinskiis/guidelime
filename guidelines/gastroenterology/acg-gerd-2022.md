@@ -1,12 +1,41 @@
-# ACG Clinical Guideline for the Diagnosis and Management of GERD
+---
+id: acg-gerd-2022
+title: "ACG Clinical Guideline for the Diagnosis and Management of GERD"
+short_title: "ACG GERD 2022"
 
-## Metadata
-- **Specialty**: Gastroenterology
-- **Organization**: American College of Gastroenterology (ACG)
-- **Year**: 2022
-- **DOI**: [10.14309/ajg.0000000000001538](https://doi.org/10.14309/ajg.0000000000001538)
-- **PMID**: [34807007](https://pubmed.ncbi.nlm.nih.gov/34807007/)
-- **Source URL**: https://journals.lww.com/ajg/fulltext/2022/01000/acg_clinical_guideline_for_the_diagnosis_and.14.aspx
+organization: American College of Gastroenterology
+collaborators: null
+country: US
+url: https://journals.lww.com/ajg/fulltext/2022/01000/acg_clinical_guideline_for_the_diagnosis_and.14.aspx
+doi: 10.14309/ajg.0000000000001538
+pmid: 34807007
+open_access: true
+
+specialty: gastroenterology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - GERD
+  - gastroesophageal reflux disease
+  - erosive esophagitis
+tags:
+  - PPI
+  - pH monitoring
+  - fundoplication
+  - lifestyle modification
+
+publication_date: 2022-01-01
+previous_version_date: 2013-01-01
+status: current
+supersedes: acg-gerd-2013
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ACG Clinical Guideline for the Diagnosis and Management of GERD
 
 ## Scope
 Evidence-based recommendations for the evaluation and management of gastroesophageal reflux disease (GERD), including pharmacologic, lifestyle, surgical, and endoscopic management.

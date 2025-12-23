@@ -1,12 +1,41 @@
-# EULAR Recommendations for the Management of Systemic Lupus Erythematosus: 2023 Update
+---
+id: eular-sle-2023
+title: "EULAR Recommendations for the Management of Systemic Lupus Erythematosus: 2023 Update"
+short_title: "EULAR SLE 2023"
 
-## Metadata
-- **Specialty**: Rheumatology
-- **Organization**: European Alliance of Associations for Rheumatology (EULAR)
-- **Year**: 2023
-- **DOI**: [10.1136/ard-2023-224762](https://doi.org/10.1136/ard-2023-224762)
-- **PMID**: [37827694](https://pubmed.ncbi.nlm.nih.gov/37827694/)
-- **Source URL**: https://ard.eular.org/article/S0003-4967(24)00386-8/fulltext
+organization: European Alliance of Associations for Rheumatology
+collaborators: null
+country: null
+url: https://ard.eular.org/article/S0003-4967(24)00386-8/fulltext
+doi: 10.1136/ard-2023-224762
+pmid: 37827694
+open_access: true
+
+specialty: rheumatology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - systemic lupus erythematosus
+  - SLE
+  - lupus nephritis
+tags:
+  - hydroxychloroquine
+  - glucocorticoids
+  - belimumab
+  - anifrolumab
+
+publication_date: 2023-10-12
+previous_version_date: 2019-01-01
+status: current
+supersedes: eular-sle-2019
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# EULAR Recommendations for the Management of Systemic Lupus Erythematosus: 2023 Update
 
 ## Scope
 Evidence-based recommendations for treatment of systemic lupus erythematosus (SLE), covering hydroxychloroquine, glucocorticoids, immunosuppressants, and biologics.

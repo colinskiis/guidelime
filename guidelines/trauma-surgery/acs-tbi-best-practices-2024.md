@@ -1,10 +1,39 @@
-# ACS Best Practices Guidelines: Management of Traumatic Brain Injury
+---
+id: acs-tbi-best-practices-2024
+title: "ACS Best Practices Guidelines: Management of Traumatic Brain Injury"
+short_title: "ACS TBI Best Practices 2024"
 
-## Metadata
-- **Specialty**: Trauma Surgery, Neurosurgery
-- **Organization**: American College of Surgeons (ACS), Brain Trauma Foundation (BTF)
-- **Year**: 2024
-- **Source URL**: https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/october-29-2024-issue/acs-releases-revised-best-practice-guidelines-in-management-of-traumatic-brain-injury/
+organization: American College of Surgeons
+collaborators:
+  - Brain Trauma Foundation
+country: US
+url: https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/october-29-2024-issue/acs-releases-revised-best-practice-guidelines-in-management-of-traumatic-brain-injury/
+doi: null
+pmid: null
+open_access: true
+
+specialty: trauma-surgery
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - traumatic brain injury
+  - TBI
+tags:
+  - ICP monitoring
+  - GCS
+  - decompressive craniectomy
+  - neuromonitoring
+
+publication_date: 2024-10-29
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Comprehensive best practice guidelines for management of traumatic brain injury, including new evidence on advanced neuromonitoring, biomarkers, and tiered ICP management.

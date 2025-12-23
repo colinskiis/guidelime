@@ -1,12 +1,40 @@
-# ASH Guidelines for Management of Venous Thromboembolism: Treatment of DVT and PE
+---
+id: ash-vte-treatment-2020
+title: "ASH Guidelines for Management of Venous Thromboembolism: Treatment of DVT and PE"
+short_title: "ASH VTE Treatment 2020"
 
-## Metadata
-- **Specialty**: Hematology
-- **Organization**: American Society of Hematology (ASH)
-- **Year**: 2020
-- **DOI**: [10.1182/bloodadvances.2020001830](https://doi.org/10.1182/bloodadvances.2020001830)
-- **PMID**: [33007077](https://pubmed.ncbi.nlm.nih.gov/33007077/)
-- **Source URL**: https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines
+organization: American Society of Hematology
+collaborators: null
+country: US
+url: https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines
+doi: 10.1182/bloodadvances.2020001830
+pmid: 33007077
+open_access: true
+
+specialty: hematology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - venous thromboembolism
+  - VTE
+  - deep vein thrombosis
+  - pulmonary embolism
+tags:
+  - anticoagulation
+  - DOAC
+  - thrombolysis
+  - IVC filter
+
+publication_date: 2020-10-13
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) in adults.

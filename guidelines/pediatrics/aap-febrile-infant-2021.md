@@ -1,12 +1,39 @@
-# AAP Clinical Practice Guideline: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old
+---
+id: aap-febrile-infant-2021
+title: "AAP Clinical Practice Guideline: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old"
+short_title: "AAP Febrile Infant 2021"
 
-## Metadata
-- **Specialty**: Pediatrics
-- **Organization**: American Academy of Pediatrics (AAP)
-- **Year**: 2021
-- **DOI**: [10.1542/peds.2021-052228](https://doi.org/10.1542/peds.2021-052228)
-- **PMID**: [34281996](https://pubmed.ncbi.nlm.nih.gov/34281996/)
-- **Source URL**: https://publications.aap.org/pediatrics/article/148/2/e2021052228/179783/
+organization: American Academy of Pediatrics
+collaborators: null
+country: US
+url: https://publications.aap.org/pediatrics/article/148/2/e2021052228/179783/
+doi: 10.1542/peds.2021-052228
+pmid: 34281996
+open_access: true
+
+specialty: pediatrics
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - febrile infant
+  - fever
+  - neonatal infection
+tags:
+  - procalcitonin
+  - CSF analysis
+  - blood culture
+  - inflammatory markers
+
+publication_date: 2021-08-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based guideline for evaluation and management of well-appearing, term infants 8-60 days old with fever ≥38.0°C.

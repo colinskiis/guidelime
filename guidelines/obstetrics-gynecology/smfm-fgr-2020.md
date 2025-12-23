@@ -1,12 +1,39 @@
-# SMFM Consult Series #52: Diagnosis and Management of Fetal Growth Restriction
+---
+id: smfm-fgr-2020
+title: "SMFM Consult Series #52: Diagnosis and Management of Fetal Growth Restriction"
+short_title: "SMFM FGR 2020"
 
-## Metadata
-- **Specialty**: Maternal-Fetal Medicine, Obstetrics
-- **Organization**: Society for Maternal-Fetal Medicine (SMFM)
-- **Year**: 2020
-- **DOI**: [10.1016/j.ajog.2020.05.010](https://doi.org/10.1016/j.ajog.2020.05.010)
-- **PMID**: [32407785](https://pubmed.ncbi.nlm.nih.gov/32407785/)
-- **Source URL**: https://www.ajog.org/article/S0002-9378(20)30535-4/fulltext
+organization: Society for Maternal-Fetal Medicine
+collaborators: null
+country: US
+url: https://www.ajog.org/article/S0002-9378(20)30535-4/fulltext
+doi: 10.1016/j.ajog.2020.05.010
+pmid: 32407785
+open_access: true
+
+specialty: obstetrics-gynecology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - fetal growth restriction
+  - FGR
+  - IUGR
+tags:
+  - doppler
+  - umbilical artery
+  - delivery timing
+  - maternal-fetal medicine
+
+publication_date: 2020-09-01
+previous_version_date: 2012-04-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for diagnosis, evaluation, and management of fetal growth restriction (FGR). Replaces SMFM Clinical Guideline #3 from April 2012.

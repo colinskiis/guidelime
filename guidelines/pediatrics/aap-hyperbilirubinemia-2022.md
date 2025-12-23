@@ -1,11 +1,39 @@
-# AAP Clinical Practice Guideline: Management of Hyperbilirubinemia in the Newborn Infant ≥35 Weeks Gestation
+---
+id: aap-hyperbilirubinemia-2022
+title: "AAP Clinical Practice Guideline: Management of Hyperbilirubinemia in the Newborn Infant ≥35 Weeks Gestation"
+short_title: "AAP Hyperbilirubinemia 2022"
 
-## Metadata
-- **Specialty**: Pediatrics, Neonatology
-- **Organization**: American Academy of Pediatrics (AAP)
-- **Year**: 2022
-- **DOI**: [10.1542/peds.2022-058859](https://doi.org/10.1542/peds.2022-058859)
-- **Source URL**: https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/
+organization: American Academy of Pediatrics
+collaborators: null
+country: US
+url: https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/
+doi: 10.1542/peds.2022-058859
+pmid: null
+open_access: true
+
+specialty: pediatrics
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - hyperbilirubinemia
+  - jaundice
+  - kernicterus
+tags:
+  - phototherapy
+  - exchange transfusion
+  - G6PD deficiency
+  - nomogram
+
+publication_date: 2022-09-01
+previous_version_date: 2004-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for screening, risk assessment, and treatment of hyperbilirubinemia in newborn infants ≥35 weeks gestation. Revision of 2004 guidelines.

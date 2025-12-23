@@ -1,10 +1,39 @@
-# ACR Manual on Contrast Media
+---
+id: acr-contrast-media-2024
+title: "ACR Manual on Contrast Media"
+short_title: "ACR Contrast Manual 2024"
 
-## Metadata
-- **Specialty**: Radiology
-- **Organization**: American College of Radiology (ACR)
-- **Year**: 2024
-- **Source URL**: https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual
+organization: American College of Radiology
+collaborators: null
+country: US
+url: https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual
+doi: null
+pmid: null
+open_access: true
+
+specialty: radiology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - contrast media safety
+  - adverse reactions
+  - AKI
+tags:
+  - iodinated contrast
+  - gadolinium
+  - NSF
+  - premedication
+
+publication_date: 2024-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Comprehensive guidance on the safe and effective use of contrast media in radiology, including iodinated, gadolinium-based, and other contrast agents.

@@ -1,11 +1,39 @@
-# ASCCP Risk-Based Management Consensus Guidelines for Abnormal Cervical Cancer Screening Tests and Cancer Precursors
+---
+id: asccp-cervical-screening-2019
+title: "ASCCP Risk-Based Management Consensus Guidelines for Abnormal Cervical Cancer Screening Tests and Cancer Precursors"
+short_title: "ASCCP Cervical Screening 2019"
 
-## Metadata
-- **Specialty**: Gynecology, Oncology
-- **Organization**: American Society for Colposcopy and Cervical Pathology (ASCCP)
-- **Year**: 2019
-- **DOI**: [10.1097/LGT.0000000000000525](https://doi.org/10.1097/LGT.0000000000000525)
-- **Source URL**: https://www.asccp.org/clinical-practice/guidelines
+organization: American Society for Colposcopy and Cervical Pathology
+collaborators: null
+country: US
+url: https://www.asccp.org/clinical-practice/guidelines
+doi: 10.1097/LGT.0000000000000525
+pmid: null
+open_access: true
+
+specialty: obstetrics-gynecology
+guideline_type: consensus
+evidence_system: null
+conditions:
+  - cervical cancer prevention
+  - CIN
+  - abnormal Pap
+tags:
+  - risk-based management
+  - colposcopy
+  - HPV
+  - screening history
+
+publication_date: 2020-04-01
+previous_version_date: 2012-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Risk-based consensus guidelines for management of abnormal cervical cancer screening results and cervical intraepithelial neoplasia, replacing algorithm-based approaches.

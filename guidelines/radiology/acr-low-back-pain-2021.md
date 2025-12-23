@@ -1,12 +1,39 @@
-# ACR Appropriateness Criteria®: Low Back Pain
+---
+id: acr-low-back-pain-2021
+title: "ACR Appropriateness Criteria®: Low Back Pain"
+short_title: "ACR Low Back Pain 2021"
 
-## Metadata
-- **Specialty**: Radiology
-- **Organization**: American College of Radiology (ACR)
-- **Year**: 2021
-- **DOI**: [10.1016/j.jacr.2021.08.002](https://doi.org/10.1016/j.jacr.2021.08.002)
-- **PMID**: [34794594](https://pubmed.ncbi.nlm.nih.gov/34794594/)
-- **Source URL**: https://acsearch.acr.org/docs/69483/Narrative/
+organization: American College of Radiology
+collaborators: null
+country: US
+url: https://acsearch.acr.org/docs/69483/Narrative/
+doi: 10.1016/j.jacr.2021.08.002
+pmid: 34794594
+open_access: true
+
+specialty: radiology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - low back pain
+  - LBP
+  - radiculopathy
+tags:
+  - imaging
+  - appropriateness criteria
+  - red flags
+  - MRI
+
+publication_date: 2021-11-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based imaging recommendations for evaluation of low back pain in adults, guiding appropriate use of radiography, CT, and MRI.

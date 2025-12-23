@@ -1,11 +1,40 @@
-# ACS Guideline: Colorectal Cancer Screening for Average-Risk Adults
+---
+id: acs-colorectal-screening-2018
+title: "ACS Guideline: Colorectal Cancer Screening for Average-Risk Adults"
+short_title: "ACS Colorectal Screening 2018"
 
-## Metadata
-- **Specialty**: Oncology, Gastroenterology, Preventive Medicine
-- **Organization**: American Cancer Society (ACS)
-- **Year**: 2018
-- **DOI**: [10.3322/caac.21457](https://doi.org/10.3322/caac.21457)
-- **Source URL**: https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/acs-recommendations.html
+organization: American Cancer Society
+collaborators: null
+country: US
+url: https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/acs-recommendations.html
+doi: 10.3322/caac.21457
+pmid: 29843935
+open_access: true
+
+specialty: oncology
+guideline_type: screening
+evidence_system: other
+conditions:
+  - colorectal cancer
+  - CRC
+tags:
+  - screening age 45
+  - colonoscopy
+  - FIT
+  - stool DNA
+
+publication_date: 2018-05-30
+previous_version_date: 2008-01-01
+status: current
+supersedes: acs-colorectal-legacy
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ACS Guideline: Colorectal Cancer Screening for Average-Risk Adults
 
 ## Scope
 Recommendations for colorectal cancer (CRC) screening in average-risk adults, including age to begin screening, screening modalities, and intervals.

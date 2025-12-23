@@ -1,12 +1,41 @@
-# AUA Guideline: Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia
+---
+id: aua-bph-2023
+title: "AUA Guideline: Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia"
+short_title: "AUA BPH 2023"
 
-## Metadata
-- **Specialty**: Urology
-- **Organization**: American Urological Association (AUA)
-- **Year**: 2023 (Amendment to 2020 Guideline)
-- **DOI**: [10.1097/JU.0000000000003698](https://doi.org/10.1097/JU.0000000000003698)
-- **PMID**: [37706750](https://pubmed.ncbi.nlm.nih.gov/37706750/)
-- **Source URL**: https://www.auanet.org/guidelines-and-quality/guidelines/benign-prostatic-hyperplasia-(bph)-guideline
+organization: American Urological Association
+collaborators: null
+country: US
+url: https://www.auanet.org/guidelines-and-quality/guidelines/benign-prostatic-hyperplasia-(bph)-guideline
+doi: 10.1097/JU.0000000000003698
+pmid: 37706750
+open_access: true
+
+specialty: urology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - benign prostatic hyperplasia
+  - BPH
+  - LUTS
+tags:
+  - alpha-blockers
+  - 5-ARI
+  - TURP
+  - Rezūm
+
+publication_date: 2023-09-01
+previous_version_date: 2020-01-01
+status: current
+supersedes: aua-bph-2020
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AUA Guideline: Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia
 
 ## Scope
 Evidence-based recommendations for evaluation and management of male lower urinary tract symptoms (LUTS) attributed to benign prostatic hyperplasia (BPH).

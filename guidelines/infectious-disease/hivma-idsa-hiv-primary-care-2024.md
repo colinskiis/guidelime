@@ -1,12 +1,41 @@
-# HIVMA/IDSA Primary Care Guidance for Providers Who Care for Persons With HIV: 2024 Update
+---
+id: hivma-idsa-hiv-primary-care-2024
+title: "HIVMA/IDSA Primary Care Guidance for Providers Who Care for Persons With HIV: 2024 Update"
+short_title: "HIVMA/IDSA HIV Primary Care 2024"
 
-## Metadata
-- **Specialty**: Infectious Disease, Primary Care
-- **Organization**: HIV Medicine Association (HIVMA), Infectious Diseases Society of America (IDSA)
-- **Year**: 2024
-- **DOI**: [10.1093/cid/ciae479](https://doi.org/10.1093/cid/ciae479)
-- **PMID**: [39393187](https://pubmed.ncbi.nlm.nih.gov/39393187/)
-- **Source URL**: https://www.idsociety.org/practice-guideline/primary-care-management-of-people-with-hiv/
+organization: HIV Medicine Association
+collaborators:
+  - Infectious Diseases Society of America
+country: US
+url: https://www.idsociety.org/practice-guideline/primary-care-management-of-people-with-hiv/
+doi: 10.1093/cid/ciae479
+pmid: 39393187
+open_access: true
+
+specialty: infectious-disease
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - HIV
+  - primary care
+tags:
+  - ART
+  - immunization
+  - comorbidities
+  - cancer screening
+
+publication_date: 2024-10-11
+previous_version_date: 2020-11-01
+status: current
+supersedes: hivma-idsa-hiv-primary-care-2020
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# HIVMA/IDSA Primary Care Guidance for Providers Who Care for Persons With HIV: 2024 Update
 
 ## Scope
 Comprehensive evidence-based guidance for primary care of persons living with HIV, including prevention, screening, and management of comorbidities.

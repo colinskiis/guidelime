@@ -1,12 +1,40 @@
-# ACG Guidelines: Management of Acute Pancreatitis
+---
+id: acg-acute-pancreatitis-2024
+title: "ACG Guidelines: Management of Acute Pancreatitis"
+short_title: "ACG Acute Pancreatitis 2024"
 
-## Metadata
-- **Specialty**: Gastroenterology
-- **Organization**: American College of Gastroenterology (ACG)
-- **Year**: 2024
-- **DOI**: [10.14309/ajg.0000000000002645](https://doi.org/10.14309/ajg.0000000000002645)
-- **PMID**: [38857482](https://pubmed.ncbi.nlm.nih.gov/38857482/)
-- **Source URL**: https://journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx
+organization: American College of Gastroenterology
+collaborators: null
+country: US
+url: https://journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx
+doi: 10.14309/ajg.0000000000002645
+pmid: 38857482
+open_access: true
+
+specialty: gastroenterology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - acute pancreatitis
+  - pancreatitis
+tags:
+  - fluid resuscitation
+  - enteral nutrition
+  - biliary pancreatitis
+  - infected necrosis
+
+publication_date: 2024-03-01
+previous_version_date: 2013-09-01
+status: current
+supersedes: acg-pancreatitis-2013
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ACG Guidelines: Management of Acute Pancreatitis
 
 ## Scope
 Evidence-based recommendations for diagnosis, severity assessment, and management of acute pancreatitis (AP), including fluid resuscitation, nutrition, and management of complications.

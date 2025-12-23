@@ -1,12 +1,40 @@
-# ASCO Clinical Practice Guideline: Metastatic Pancreatic Cancer
+---
+id: asco-pancreatic-metastatic-2020
+title: "ASCO Clinical Practice Guideline: Metastatic Pancreatic Cancer"
+short_title: "ASCO Pancreatic 2020"
 
-## Metadata
-- **Specialty**: Oncology
-- **Organization**: American Society of Clinical Oncology (ASCO)
-- **Year**: 2020 Update
-- **DOI**: [10.1200/JCO.20.01364](https://doi.org/10.1200/JCO.20.01364)
-- **PMID**: [32755482](https://pubmed.ncbi.nlm.nih.gov/32755482/)
-- **Source URL**: https://ascopubs.org/doi/10.1200/JCO.20.01364
+organization: American Society of Clinical Oncology
+collaborators: null
+country: US
+url: https://ascopubs.org/doi/10.1200/JCO.20.01364
+doi: 10.1200/JCO.20.01364
+pmid: 32755482
+open_access: true
+
+specialty: oncology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - metastatic pancreatic adenocarcinoma
+  - pancreatic cancer
+tags:
+  - FOLFIRINOX
+  - BRCA mutations
+  - olaparib
+  - nal-IRI
+
+publication_date: 2020-08-05
+previous_version_date: 2018-01-01
+status: current
+supersedes: asco-pancreatic-legacy
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ASCO Clinical Practice Guideline: Metastatic Pancreatic Cancer
 
 ## Scope
 Evidence-based recommendations for systemic treatment of metastatic pancreatic adenocarcinoma, including first-line therapy, molecular testing, and subsequent lines of treatment.

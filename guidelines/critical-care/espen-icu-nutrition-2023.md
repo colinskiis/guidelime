@@ -1,12 +1,38 @@
-# ESPEN Practical Guideline: Clinical Nutrition in the Intensive Care Unit
+---
+id: espen-icu-nutrition-2023
+title: "ESPEN Practical Guideline: Clinical Nutrition in the Intensive Care Unit"
+short_title: "ESPEN ICU Nutrition 2023"
 
-## Metadata
-- **Specialty**: Critical Care, Nutrition
-- **Organization**: European Society for Clinical Nutrition and Metabolism (ESPEN)
-- **Year**: 2023
-- **DOI**: [10.1016/j.clnu.2023.07.011](https://doi.org/10.1016/j.clnu.2023.07.011)
-- **PMID**: [37517372](https://pubmed.ncbi.nlm.nih.gov/37517372/)
-- **Source URL**: https://www.clinicalnutritionjournal.com/article/S0261-5614(23)00230-3/fulltext
+organization: European Society for Clinical Nutrition and Metabolism
+collaborators: null
+country: null
+url: https://www.clinicalnutritionjournal.com/article/S0261-5614(23)00230-3/fulltext
+doi: 10.1016/j.clnu.2023.07.011
+pmid: 37517372
+open_access: true
+
+specialty: critical-care
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - critical illness
+  - ICU nutrition
+tags:
+  - enteral nutrition
+  - parenteral nutrition
+  - protein requirements
+  - refeeding syndrome
+
+publication_date: 2023-07-01
+previous_version_date: 2019-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Practical and partially revised guideline for clinical nutrition in critically ill adult patients, with flow charts for implementation.

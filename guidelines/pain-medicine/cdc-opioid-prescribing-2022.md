@@ -1,12 +1,39 @@
-# CDC Clinical Practice Guideline for Prescribing Opioids for Pain
+---
+id: cdc-opioid-prescribing-2022
+title: "CDC Clinical Practice Guideline for Prescribing Opioids for Pain"
+short_title: "CDC Opioid Prescribing 2022"
 
-## Metadata
-- **Specialty**: Pain Medicine, Primary Care
-- **Organization**: Centers for Disease Control and Prevention (CDC)
-- **Year**: 2022
-- **DOI**: [10.15585/mmwr.rr7103a1](https://doi.org/10.15585/mmwr.rr7103a1)
-- **PMID**: [36327391](https://pubmed.ncbi.nlm.nih.gov/36327391/)
-- **Source URL**: https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm
+organization: Centers for Disease Control and Prevention
+collaborators: null
+country: US
+url: https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm
+doi: 10.15585/mmwr.rr7103a1
+pmid: 36327391
+open_access: true
+
+specialty: pain-medicine
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - chronic pain
+  - acute pain
+  - opioid use disorder
+tags:
+  - MME
+  - tapering
+  - nonopioid therapy
+  - PDMP
+
+publication_date: 2022-11-04
+previous_version_date: 2016-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Updated guidance for clinicians prescribing opioids for outpatients aged ≥18 years with acute, subacute, or chronic pain, excluding cancer-related pain, palliative care, and end-of-life care.

@@ -1,12 +1,43 @@
-# ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure (2023 Focused Update)
+---
+id: esc-heart-failure-2023
+title: "2023 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure (Focused Update)"
+short_title: "ESC Heart Failure 2023"
 
-## Metadata
-- **Specialty**: Cardiology
-- **Organization**: European Society of Cardiology (ESC), Heart Failure Association (HFA)
-- **Year**: 2023 (Focused Update of 2021 Guidelines)
-- **DOI**: [10.1093/eurheartj/ehad195](https://doi.org/10.1093/eurheartj/ehad195)
-- **PMID**: [37622666](https://pubmed.ncbi.nlm.nih.gov/37622666/)
-- **Source URL**: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Focused-Update-on-Heart-Failure-Guidelines
+organization: European Society of Cardiology
+collaborators:
+  - Heart Failure Association
+country: null
+url: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Focused-Update-on-Heart-Failure-Guidelines
+doi: 10.1093/eurheartj/ehad195
+pmid: 37622666
+open_access: true
+
+specialty: cardiology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - heart failure
+  - HFrEF
+  - HFmrEF
+  - HFpEF
+tags:
+  - SGLT2 inhibitors
+  - ARNI
+  - beta-blockers
+  - MRAs
+
+publication_date: 2023-08-25
+previous_version_date: 2021-08-27
+status: current
+supersedes: esc-heart-failure-2021
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure (2023 Focused Update)
 
 ## Scope
 Focused update addressing changes in HF treatment recommendations based on new RCTs since 2021, including guidance for HFrEF, HFmrEF, HFpEF, and acute HF.

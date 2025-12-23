@@ -1,11 +1,39 @@
-# WHO mhGAP Guidelines for Management of GAD and Panic Disorder
+---
+id: who-anxiety-2023
+title: "WHO mhGAP Guidelines for Management of GAD and Panic Disorder"
+short_title: "WHO Anxiety 2023"
 
-## Metadata
-- **Specialty**: Psychiatry
-- **Organization**: World Health Organization (WHO)
-- **Year**: 2023 (Published January 2024)
-- **DOI**: [10.1002/wps.21172](https://doi.org/10.1002/wps.21172)
-- **Source URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC10785994/
+organization: World Health Organization
+collaborators: null
+country: null
+url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10785994/
+doi: 10.1002/wps.21172
+pmid: null
+open_access: true
+
+specialty: psychiatry
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - GAD
+  - panic disorder
+  - anxiety
+tags:
+  - mhGAP
+  - psychological intervention
+  - task sharing
+  - primary care
+
+publication_date: 2024-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 WHO mhGAP module providing evidence-based recommendations for the management of generalized anxiety disorder (GAD) and panic disorder (PD) in general health care settings.

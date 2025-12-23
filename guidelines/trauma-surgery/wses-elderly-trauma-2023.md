@@ -1,12 +1,39 @@
-# WSES Guidelines: Management of Trauma in Elderly and Frail Patients
+---
+id: wses-elderly-trauma-2023
+title: "WSES Guidelines: Management of Trauma in Elderly and Frail Patients"
+short_title: "WSES Elderly Trauma 2023"
 
-## Metadata
-- **Specialty**: Trauma Surgery, Geriatrics
-- **Organization**: World Society of Emergency Surgery (WSES)
-- **Year**: 2023
-- **DOI**: [10.1186/s13017-024-00537-8](https://doi.org/10.1186/s13017-024-00537-8)
-- **PMID**: [38816766](https://pubmed.ncbi.nlm.nih.gov/38816766/)
-- **Source URL**: https://wjes.biomedcentral.com/wses
+organization: World Society of Emergency Surgery
+collaborators: null
+country: null
+url: https://wjes.biomedcentral.com/wses
+doi: 10.1186/s13017-024-00537-8
+pmid: 38816766
+open_access: true
+
+specialty: trauma-surgery
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - trauma
+  - frailty
+  - elderly
+tags:
+  - geriatric trauma
+  - frailty assessment
+  - anticoagulation reversal
+  - goals of care
+
+publication_date: 2024-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the management of trauma in elderly and frail patients, developed using GRADE methodology and approved at the 10th WSES International Congress in 2023.

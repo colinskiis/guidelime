@@ -1,12 +1,41 @@
-# IHS Global Practice Recommendations for Preventive Pharmacological Treatment of Migraine
+---
+id: ihs-migraine-preventive-2024
+title: "IHS Global Practice Recommendations for Preventive Pharmacological Treatment of Migraine"
+short_title: "IHS Migraine Preventive 2024"
 
-## Metadata
-- **Specialty**: Neurology
-- **Organization**: International Headache Society (IHS)
-- **Year**: 2024
-- **DOI**: [10.1177/03331024241269735](https://doi.org/10.1177/03331024241269735)
-- **PMID**: [39262214](https://pubmed.ncbi.nlm.nih.gov/39262214/)
-- **Source URL**: https://ihs-headache.org/en/resources/guidelines/
+organization: International Headache Society
+collaborators: null
+country: null
+url: https://ihs-headache.org/en/resources/guidelines/
+doi: 10.1177/03331024241269735
+pmid: 39262214
+open_access: true
+
+specialty: neurology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - migraine
+  - chronic migraine
+  - headache
+tags:
+  - beta-blockers
+  - CGRP mAbs
+  - gepants
+  - onabotulinumtoxinA
+
+publication_date: 2024-09-10
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# IHS Global Practice Recommendations for Preventive Pharmacological Treatment of Migraine
 
 ## Scope
 Global practice recommendations for preventive pharmacological treatment of migraine in adults, applicable across different care settings worldwide.

@@ -1,12 +1,40 @@
-# ESMO Clinical Practice Guideline: Metastatic Colorectal Cancer
+---
+id: esmo-colorectal-metastatic-2023
+title: "ESMO Clinical Practice Guideline: Metastatic Colorectal Cancer"
+short_title: "ESMO mCRC 2023"
 
-## Metadata
-- **Specialty**: Oncology
-- **Organization**: European Society for Medical Oncology (ESMO)
-- **Year**: 2023 (Living Guideline with 2024 updates)
-- **DOI**: [10.1016/j.annonc.2022.10.003](https://doi.org/10.1016/j.annonc.2022.10.003)
-- **PMID**: [36307056](https://pubmed.ncbi.nlm.nih.gov/36307056/)
-- **Source URL**: https://www.esmo.org/living-guidelines/esmo-metastatic-colorectal-cancer-living-guideline
+organization: European Society for Medical Oncology
+collaborators: null
+country: null
+url: https://www.esmo.org/living-guidelines/esmo-metastatic-colorectal-cancer-living-guideline
+doi: 10.1016/j.annonc.2022.10.003
+pmid: 36307056
+open_access: true
+
+specialty: oncology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - metastatic colorectal cancer
+  - mCRC
+tags:
+  - RAS mutations
+  - BRAF V600E
+  - MSI/dMMR
+  - bevacizumab
+
+publication_date: 2023-01-01
+previous_version_date: 2022-10-01
+status: current
+supersedes: esmo-colorectal-2022
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ESMO Clinical Practice Guideline: Metastatic Colorectal Cancer
 
 ## Scope
 Evidence-based recommendations for diagnosis, treatment, and follow-up of metastatic colorectal cancer (mCRC).

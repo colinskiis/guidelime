@@ -1,12 +1,39 @@
-# ASH Guidelines for Sickle Cell Disease: Transfusion Support
+---
+id: ash-sickle-cell-transfusion-2020
+title: "ASH Guidelines for Sickle Cell Disease: Transfusion Support"
+short_title: "ASH SCD Transfusion 2020"
 
-## Metadata
-- **Specialty**: Hematology
-- **Organization**: American Society of Hematology (ASH)
-- **Year**: 2020
-- **DOI**: [10.1182/bloodadvances.2019001143](https://doi.org/10.1182/bloodadvances.2019001143)
-- **PMID**: [31985807](https://pubmed.ncbi.nlm.nih.gov/31985807/)
-- **Source URL**: https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines/scd-guidelines-transfusion-support
+organization: American Society of Hematology
+collaborators: null
+country: US
+url: https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines/scd-guidelines-transfusion-support
+doi: 10.1182/bloodadvances.2019001143
+pmid: 31985807
+open_access: true
+
+specialty: hematology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - sickle cell disease
+  - SCD
+  - anemia
+tags:
+  - transfusion
+  - acute chest syndrome
+  - iron overload
+  - stroke prevention
+
+publication_date: 2020-01-28
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for transfusion therapy in sickle cell disease, including indications, administration, and management of complications.

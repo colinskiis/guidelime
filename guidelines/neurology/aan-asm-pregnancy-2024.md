@@ -1,12 +1,43 @@
-# AAN/AES/SMFM Practice Guideline: Antiseizure Medications in Pregnancy
+---
+id: aan-asm-pregnancy-2024
+title: "AAN/AES/SMFM Practice Guideline: Antiseizure Medications in Pregnancy"
+short_title: "AAN ASM in Pregnancy 2024"
 
-## Metadata
-- **Specialty**: Neurology, Obstetrics
-- **Organization**: American Academy of Neurology (AAN), American Epilepsy Society (AES), Society for Maternal-Fetal Medicine (SMFM)
-- **Year**: 2024
-- **DOI**: [10.1212/WNL.0000000000209515](https://doi.org/10.1212/WNL.0000000000209515)
-- **PMID**: [38748979](https://pubmed.ncbi.nlm.nih.gov/38748979/)
-- **Source URL**: https://www.aan.com/Guidelines
+organization: American Academy of Neurology
+collaborators:
+  - American Epilepsy Society
+  - Society for Maternal-Fetal Medicine
+country: US
+url: https://www.aan.com/Guidelines
+doi: 10.1212/WNL.0000000000209515
+pmid: 38748979
+open_access: true
+
+specialty: neurology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - epilepsy
+  - pregnancy
+  - antiseizure medications
+tags:
+  - valproate
+  - lamotrigine
+  - levetiracetam
+  - congenital malformations
+
+publication_date: 2024-05-13
+previous_version_date: 2009-04-27
+status: current
+supersedes: aan-asm-pregnancy-2009
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AAN/AES/SMFM Practice Guideline: Antiseizure Medications in Pregnancy
 
 ## Scope
 Evidence-based recommendations regarding effects of antiseizure medications (ASMs) and folic acid on major congenital malformations (MCMs), adverse perinatal outcomes, and neurodevelopmental outcomes in children born to people with epilepsy.

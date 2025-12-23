@@ -1,12 +1,42 @@
-# IDSA Practice Guidelines for Diagnosis and Management of Skin and Soft Tissue Infections
+---
+id: idsa-ssti-2014
+title: "IDSA Practice Guidelines for Diagnosis and Management of Skin and Soft Tissue Infections"
+short_title: "IDSA SSTI 2014"
 
-## Metadata
-- **Specialty**: Infectious Disease
-- **Organization**: Infectious Diseases Society of America (IDSA)
-- **Year**: 2014
-- **DOI**: [10.1093/cid/ciu444](https://doi.org/10.1093/cid/ciu444)
-- **PMID**: [24973422](https://pubmed.ncbi.nlm.nih.gov/24973422/)
-- **Source URL**: https://academic.oup.com/cid/article/59/2/e10/2895845
+organization: Infectious Diseases Society of America
+collaborators: null
+country: US
+url: https://academic.oup.com/cid/article/59/2/e10/2895845
+doi: 10.1093/cid/ciu444
+pmid: 24973422
+open_access: true
+
+specialty: infectious-disease
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - skin and soft tissue infections
+  - SSTI
+  - cellulitis
+  - necrotizing fasciitis
+tags:
+  - MRSA
+  - incision and drainage
+  - surgical emergency
+  - clindamycin
+
+publication_date: 2014-07-15
+previous_version_date: 2011-02-01
+status: current
+supersedes: idsa-ssti-2011
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# IDSA Practice Guidelines for Diagnosis and Management of Skin and Soft Tissue Infections
 
 ## Scope
 Comprehensive guidelines for diagnosis and treatment of skin and soft tissue infections (SSTIs) ranging from superficial infections to life-threatening necrotizing fasciitis.

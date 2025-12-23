@@ -1,11 +1,38 @@
-# ERAS Society Guidelines: Perioperative Care in Elective Colorectal Surgery
+---
+id: eras-colorectal-2025
+title: "ERAS Society Guidelines: Perioperative Care in Elective Colorectal Surgery"
+short_title: "ERAS Colorectal 2025"
 
-## Metadata
-- **Specialty**: Colorectal Surgery, Perioperative Medicine
-- **Organization**: Enhanced Recovery After Surgery (ERAS) Society
-- **Year**: 2025
-- **DOI**: [10.1016/j.surg.2025.109290](https://doi.org/10.1016/j.surg.2025.109290)
-- **Source URL**: https://erassociety.org/guidelines/
+organization: Enhanced Recovery After Surgery Society
+collaborators: null
+country: null
+url: https://erassociety.org/guidelines/
+doi: 10.1016/j.surg.2025.109290
+pmid: null
+open_access: false
+
+specialty: surgical-care
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - colorectal surgery
+  - elective surgery
+tags:
+  - ERAS
+  - perioperative care
+  - bowel prep
+  - multimodal analgesia
+
+publication_date: 2025-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Updated evidence-based guidelines for perioperative care in elective colorectal surgery to optimize recovery and reduce complications.

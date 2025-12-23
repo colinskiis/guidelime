@@ -1,12 +1,40 @@
-# AUA Guideline: Erectile Dysfunction
+---
+id: aua-erectile-dysfunction-2018
+title: "AUA Guideline: Erectile Dysfunction"
+short_title: "AUA ED 2018"
 
-## Metadata
-- **Specialty**: Urology
-- **Organization**: American Urological Association (AUA)
-- **Year**: 2018
-- **DOI**: [10.1016/j.juro.2018.05.004](https://doi.org/10.1016/j.juro.2018.05.004)
-- **PMID**: [29746858](https://pubmed.ncbi.nlm.nih.gov/29746858/)
-- **Source URL**: https://www.auanet.org/guidelines-and-quality/guidelines/erectile-dysfunction-(ed)-guideline
+organization: American Urological Association
+collaborators: null
+country: US
+url: https://www.auanet.org/guidelines-and-quality/guidelines/erectile-dysfunction-(ed)-guideline
+doi: 10.1016/j.juro.2018.05.004
+pmid: 29746858
+open_access: true
+
+specialty: urology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - erectile dysfunction
+  - ED
+tags:
+  - PDE5 inhibitors
+  - sildenafil
+  - tadalafil
+  - penile prosthesis
+
+publication_date: 2018-05-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AUA Guideline: Erectile Dysfunction
 
 ## Scope
 Evidence-based recommendations for the diagnosis and treatment of erectile dysfunction in adult men.

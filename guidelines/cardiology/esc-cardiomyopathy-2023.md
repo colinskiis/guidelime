@@ -1,12 +1,43 @@
-# ESC Guidelines for the Management of Cardiomyopathies
+---
+id: esc-cardiomyopathy-2023
+title: "2023 ESC Guidelines for the Management of Cardiomyopathies"
+short_title: "ESC Cardiomyopathy 2023"
 
-## Metadata
-- **Specialty**: Cardiology
-- **Organization**: European Society of Cardiology (ESC)
-- **Year**: 2023
-- **DOI**: [10.1093/eurheartj/ehad194](https://doi.org/10.1093/eurheartj/ehad194)
-- **PMID**: [37622657](https://pubmed.ncbi.nlm.nih.gov/37622657/)
-- **Source URL**: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Cardiomyopathy-Guidelines
+organization: European Society of Cardiology
+collaborators: null
+country: null
+url: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Cardiomyopathy-Guidelines
+doi: 10.1093/eurheartj/ehad194
+pmid: 37622657
+open_access: true
+
+specialty: cardiology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - cardiomyopathy
+  - HCM
+  - DCM
+  - ACM
+  - RCM
+tags:
+  - genetics
+  - heart failure
+  - arrhythmia
+  - sudden cardiac death
+
+publication_date: 2023-08-25
+previous_version_date: 2014-08-29
+status: current
+supersedes: esc-hcm-2014
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ESC Guidelines for the Management of Cardiomyopathies
 
 ## Scope
 Comprehensive guidelines covering diagnosis and management of all cardiomyopathy phenotypes, including hypertrophic, dilated, arrhythmogenic, restrictive, and non-dilated left ventricular cardiomyopathies.

@@ -1,12 +1,39 @@
-# Joint AAD-NPF Guidelines of Care for the Management and Treatment of Psoriasis with Biologics
+---
+id: aad-npf-psoriasis-biologics-2019
+title: "Joint AAD-NPF Guidelines of Care for the Management and Treatment of Psoriasis with Biologics"
+short_title: "AAD Psoriasis Biologics 2019"
 
-## Metadata
-- **Specialty**: Dermatology
-- **Organization**: American Academy of Dermatology (AAD), National Psoriasis Foundation (NPF)
-- **Year**: 2019
-- **DOI**: [10.1016/j.jaad.2018.11.057](https://doi.org/10.1016/j.jaad.2018.11.057)
-- **PMID**: [30772098](https://pubmed.ncbi.nlm.nih.gov/30772098/)
-- **Source URL**: https://www.aad.org/member/clinical-quality/guidelines/psoriasis
+organization: American Academy of Dermatology
+collaborators:
+  - National Psoriasis Foundation
+country: US
+url: https://www.aad.org/member/clinical-quality/guidelines/psoriasis
+doi: 10.1016/j.jaad.2018.11.057
+pmid: 30772098
+open_access: true
+
+specialty: dermatology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - moderate-to-severe plaque psoriasis
+  - plaque psoriasis
+tags:
+  - biologics
+  - TNF-alpha inhibitors
+  - IL-17 inhibitors
+  - IL-23 inhibitors
+
+publication_date: 2019-02-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the use of biologic therapies in the treatment of moderate-to-severe plaque psoriasis in adults.

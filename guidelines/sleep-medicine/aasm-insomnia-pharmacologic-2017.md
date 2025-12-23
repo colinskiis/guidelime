@@ -1,12 +1,38 @@
-# AASM Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults
+---
+id: aasm-insomnia-pharmacologic-2017
+title: "AASM Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults"
+short_title: "AASM Insomnia Pharmacologic 2017"
 
-## Metadata
-- **Specialty**: Sleep Medicine
-- **Organization**: American Academy of Sleep Medicine (AASM)
-- **Year**: 2017
-- **DOI**: [10.5664/jcsm.6470](https://doi.org/10.5664/jcsm.6470)
-- **PMID**: [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/)
-- **Source URL**: https://jcsm.aasm.org/doi/10.5664/jcsm.6470
+organization: American Academy of Sleep Medicine
+collaborators: null
+country: US
+url: https://jcsm.aasm.org/doi/10.5664/jcsm.6470
+doi: 10.5664/jcsm.6470
+pmid: 27998379
+open_access: true
+
+specialty: sleep-medicine
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - chronic insomnia
+  - insomnia disorder
+tags:
+  - zolpidem
+  - suvorexant
+  - BzRAs
+  - pharmacotherapy
+
+publication_date: 2017-02-15
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for pharmacologic treatment of chronic insomnia disorder in adults.

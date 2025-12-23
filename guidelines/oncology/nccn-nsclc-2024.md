@@ -1,11 +1,40 @@
-# NCCN Guidelines for Non-Small Cell Lung Cancer
+---
+id: nccn-nsclc-2024
+title: "NCCN Guidelines for Non-Small Cell Lung Cancer"
+short_title: "NCCN NSCLC 2024"
 
-## Metadata
-- **Specialty**: Oncology
-- **Organization**: National Comprehensive Cancer Network (NCCN)
-- **Year**: 2024 (Version 4.2024; updates to 8.2025 available)
-- **PMID**: [38754467](https://pubmed.ncbi.nlm.nih.gov/38754467/)
-- **Source URL**: https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1450
+organization: National Comprehensive Cancer Network
+collaborators: null
+country: US
+url: https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1450
+doi: null
+pmid: 38754467
+open_access: true
+
+specialty: oncology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - non-small cell lung cancer
+  - NSCLC
+tags:
+  - molecular profiling
+  - targeted therapy
+  - immunotherapy
+  - PD-L1
+
+publication_date: 2024-05-15
+previous_version_date: 2023-12-01
+status: current
+supersedes: nccn-nsclc-2023
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# NCCN Guidelines for Non-Small Cell Lung Cancer
 
 ## Scope
 Recommendations for diagnosis, primary treatment, surveillance, and subsequent treatment of patients with non-small cell lung cancer (NSCLC).

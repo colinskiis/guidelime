@@ -1,12 +1,39 @@
-# AAAAI/ACAAI Joint Task Force Guidelines: Atopic Dermatitis
+---
+id: aaaai-acaai-atopic-dermatitis-2023
+title: "AAAAI/ACAAI Joint Task Force Guidelines: Atopic Dermatitis"
+short_title: "AAAAI Atopic Dermatitis 2023"
 
-## Metadata
-- **Specialty**: Dermatology, Allergy/Immunology
-- **Organization**: American Academy of Allergy, Asthma and Immunology (AAAAI), American College of Allergy, Asthma and Immunology (ACAAI)
-- **Year**: 2023
-- **DOI**: [10.1016/j.anai.2023.11.009](https://doi.org/10.1016/j.anai.2023.11.009)
-- **PMID**: [38108679](https://pubmed.ncbi.nlm.nih.gov/38108679/)
-- **Source URL**: https://www.aaaai.org/conditions-treatments/related-conditions/atopic-dermatitis
+organization: American Academy of Allergy, Asthma and Immunology
+collaborators:
+  - American College of Allergy, Asthma and Immunology
+country: US
+url: https://www.aaaai.org/conditions-treatments/related-conditions/atopic-dermatitis
+doi: 10.1016/j.anai.2023.11.009
+pmid: 38108679
+open_access: true
+
+specialty: dermatology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - atopic dermatitis
+  - eczema
+tags:
+  - dupilumab
+  - topical corticosteroids
+  - JAK inhibitors
+  - skin care
+
+publication_date: 2023-12-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the diagnosis and management of atopic dermatitis (eczema) using GRADE methodology.

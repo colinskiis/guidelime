@@ -1,11 +1,38 @@
-# NICE Guideline: Attention Deficit Hyperactivity Disorder (ADHD)
+---
+id: nice-adhd-2018
+title: "NICE Guideline: Attention Deficit Hyperactivity Disorder (ADHD)"
+short_title: "NICE ADHD 2018"
 
-## Metadata
-- **Specialty**: Psychiatry, Pediatrics
-- **Organization**: National Institute for Health and Care Excellence (NICE)
-- **Year**: 2018 (Updated 2024)
-- **Guideline Number**: NG87
-- **Source URL**: https://www.nice.org.uk/guidance/ng87
+organization: National Institute for Health and Care Excellence
+collaborators: null
+country: UK
+url: https://www.nice.org.uk/guidance/ng87
+doi: null
+pmid: null
+open_access: true
+
+specialty: psychiatry
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - ADHD
+  - attention deficit hyperactivity disorder
+tags:
+  - diagnosis
+  - transition
+  - stimulants
+  - non-pharmacological
+
+publication_date: 2018-03-14
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Recommendations for recognizing, diagnosing, and managing ADHD in children, young people, and adults.

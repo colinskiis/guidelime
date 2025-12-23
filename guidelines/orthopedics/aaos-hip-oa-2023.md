@@ -1,12 +1,38 @@
-# AAOS Clinical Practice Guideline: Management of Osteoarthritis of the Hip
+---
+id: aaos-hip-oa-2023
+title: "AAOS Clinical Practice Guideline: Management of Osteoarthritis of the Hip"
+short_title: "AAOS Hip OA 2023"
 
-## Metadata
-- **Specialty**: Orthopedics
-- **Organization**: American Academy of Orthopaedic Surgeons (AAOS)
-- **Year**: 2023
-- **DOI**: [10.5435/JAAOS-D-24-00427](https://doi.org/10.5435/JAAOS-D-24-00427)
-- **PMID**: [39312909](https://pubmed.ncbi.nlm.nih.gov/39312909/)
-- **Source URL**: https://www.aaos.org/quality/quality-programs/lower-extremity-programs/hip-osteoarthritis/
+organization: American Academy of Orthopaedic Surgeons
+collaborators: null
+country: US
+url: https://www.aaos.org/quality/quality-programs/lower-extremity-programs/hip-osteoarthritis/
+doi: 10.5435/JAAOS-D-24-00427
+pmid: 39312909
+open_access: true
+
+specialty: orthopedics
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - hip osteoarthritis
+  - OA
+tags:
+  - NSAIDs
+  - exercise
+  - intra-articular injections
+  - THA
+
+publication_date: 2023-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the non-operative management of hip osteoarthritis in adults.

@@ -1,12 +1,39 @@
-# AAO Primary Open-Angle Glaucoma Preferred Practice Pattern
+---
+id: aao-poag-ppp-2021
+title: "AAO Primary Open-Angle Glaucoma Preferred Practice Pattern"
+short_title: "AAO POAG 2021"
 
-## Metadata
-- **Specialty**: Ophthalmology
-- **Organization**: American Academy of Ophthalmology (AAO)
-- **Year**: 2021
-- **DOI**: [10.1016/j.ophtha.2020.10.022](https://doi.org/10.1016/j.ophtha.2020.10.022)
-- **PMID**: [33189848](https://pubmed.ncbi.nlm.nih.gov/33189848/)
-- **Source URL**: https://www.aao.org/education/preferred-practice-pattern/primary-open-angle-glaucoma-ppp
+organization: American Academy of Ophthalmology
+collaborators: null
+country: US
+url: https://www.aao.org/education/preferred-practice-pattern/primary-open-angle-glaucoma-ppp
+doi: 10.1016/j.ophtha.2020.10.022
+pmid: 33189848
+open_access: true
+
+specialty: ophthalmology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - primary open-angle glaucoma
+  - POAG
+  - glaucoma
+tags:
+  - IOP target
+  - SLT
+  - MIGS
+  - optic nerve imaging
+
+publication_date: 2021-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the diagnosis and management of primary open-angle glaucoma (POAG) in adults.

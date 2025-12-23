@@ -1,11 +1,39 @@
-# ACOG Clinical Practice Update: Screening for Gestational and Pregestational Diabetes
+---
+id: acog-gdm-screening-2024
+title: "ACOG Clinical Practice Update: Screening for Gestational and Pregestational Diabetes"
+short_title: "ACOG GDM Screening 2024"
 
-## Metadata
-- **Specialty**: Obstetrics and Gynecology, Endocrinology
-- **Organization**: American College of Obstetricians and Gynecologists (ACOG)
-- **Year**: 2024
-- **DOI**: [10.1097/AOG.0000000000005612](https://doi.org/10.1097/AOG.0000000000005612)
-- **Source URL**: https://www.acog.org/clinical/clinical-guidance/clinical-practice-update
+organization: American College of Obstetricians and Gynecologists
+collaborators: null
+country: US
+url: https://www.acog.org/clinical/clinical-guidance/clinical-practice-update
+doi: 10.1097/AOG.0000000000005612
+pmid: null
+open_access: false
+
+specialty: obstetrics-gynecology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - gestational diabetes
+  - GDM
+  - pregestational diabetes
+tags:
+  - screening
+  - OGTT
+  - postpartum testing
+  - metabolic health
+
+publication_date: 2024-07-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Updated recommendations for screening for pregestational and gestational diabetes in pregnancy and postpartum testing in patients with GDM.

@@ -1,11 +1,40 @@
-# ADA Standards of Care in Diabetes: Pharmacologic Approaches to Glycemic Treatment
+---
+id: ada-diabetes-pharmacotherapy-2025
+title: "ADA Standards of Care in Diabetes: Pharmacologic Approaches to Glycemic Treatment"
+short_title: "ADA Diabetes Pharmacotherapy 2025"
 
-## Metadata
-- **Specialty**: Endocrinology
-- **Organization**: American Diabetes Association (ADA)
-- **Year**: 2025
-- **DOI**: [10.2337/dc25-S009](https://doi.org/10.2337/dc25-S009)
-- **Source URL**: https://diabetesjournals.org/care/article/48/Supplement_1/S181/157569/
+organization: American Diabetes Association
+collaborators: null
+country: US
+url: https://diabetesjournals.org/care/article/48/Supplement_1/S181/157569/
+doi: 10.2337/dc25-S009
+pmid: 39566271
+open_access: true
+
+specialty: endocrinology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - type 2 diabetes
+  - glycemic treatment
+tags:
+  - metformin
+  - GLP-1 RA
+  - SGLT2i
+  - insulin
+
+publication_date: 2025-01-01
+previous_version_date: 2024-01-01
+status: current
+supersedes: ada-pharmacotherapy-2024
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ADA Standards of Care in Diabetes: Pharmacologic Approaches to Glycemic Treatment
 
 ## Scope
 Evidence-based recommendations for pharmacologic treatment of type 2 diabetes, including medication selection, combination therapy, and management of cardiorenal comorbidities.

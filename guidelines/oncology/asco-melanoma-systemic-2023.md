@@ -1,12 +1,40 @@
-# ASCO Guideline Update: Systemic Therapy for Melanoma
+---
+id: asco-melanoma-systemic-2023
+title: "ASCO Guideline Update: Systemic Therapy for Melanoma"
+short_title: "ASCO Melanoma 2023"
 
-## Metadata
-- **Specialty**: Oncology
-- **Organization**: American Society of Clinical Oncology (ASCO)
-- **Year**: 2023
-- **DOI**: [10.1200/JCO.23.01136](https://doi.org/10.1200/JCO.23.01136)
-- **PMID**: [37579248](https://pubmed.ncbi.nlm.nih.gov/37579248/)
-- **Source URL**: https://ascopubs.org/doi/10.1200/JCO.23.01136
+organization: American Society of Clinical Oncology
+collaborators: null
+country: US
+url: https://ascopubs.org/doi/10.1200/JCO.23.01136
+doi: 10.1200/JCO.23.01136
+pmid: 37579248
+open_access: true
+
+specialty: oncology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - melanoma
+  - cutaneous melanoma
+tags:
+  - pembrolizumab
+  - nivolumab
+  - BRAF mutations
+  - LAG-3 inhibitors
+
+publication_date: 2023-08-14
+previous_version_date: 2017-01-01
+status: current
+supersedes: asco-melanoma-legacy
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ASCO Guideline Update: Systemic Therapy for Melanoma
 
 ## Scope
 Evidence-based recommendations for systemic therapy in cutaneous melanoma, including neoadjuvant, adjuvant, and treatment of unresectable/metastatic disease.

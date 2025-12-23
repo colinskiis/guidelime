@@ -1,11 +1,41 @@
-# ASCO Guideline: Systemic Therapy in Patients with Metastatic Castration-Resistant Prostate Cancer
+---
+id: asco-mcrpc-2024
+title: "ASCO Guideline: Systemic Therapy in Patients with Metastatic Castration-Resistant Prostate Cancer"
+short_title: "ASCO mCRPC 2024"
 
-## Metadata
-- **Specialty**: Oncology
-- **Organization**: American Society of Clinical Oncology (ASCO)
-- **Year**: 2024-2025 Update
-- **DOI**: [10.1200/JCO.23.00155](https://doi.org/10.1200/JCO.23.00155)
-- **Source URL**: https://ascopubs.org/doi/10.1200/JCO-25-00007
+organization: American Society of Clinical Oncology
+collaborators: null
+country: US
+url: https://ascopubs.org/doi/10.1200/JCO-25-00007
+doi: 10.1200/JCO.23.00155
+pmid: 38435889
+open_access: true
+
+specialty: oncology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - metastatic castration-resistant prostate cancer
+  - mCRPC
+  - prostate cancer
+tags:
+  - genomic testing
+  - PARP inhibitors
+  - PSMA
+  - lutetium-177
+
+publication_date: 2024-03-01
+previous_version_date: 2014-01-01
+status: current
+supersedes: asco-prostate-legacy
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ASCO Guideline: Systemic Therapy in Patients with Metastatic Castration-Resistant Prostate Cancer
 
 ## Scope
 Evidence-based recommendations for systemic treatment of metastatic castration-resistant prostate cancer (mCRPC), including sequencing of therapies, genomic testing, and management of specific subtypes.

@@ -1,12 +1,41 @@
-# AAN Practice Guideline: Disease-Modifying Therapies for Adults with Multiple Sclerosis
+---
+id: aan-multiple-sclerosis-dmt-2018
+title: "AAN Practice Guideline: Disease-Modifying Therapies for Adults with Multiple Sclerosis"
+short_title: "AAN MS DMT 2018"
 
-## Metadata
-- **Specialty**: Neurology
-- **Organization**: American Academy of Neurology (AAN)
-- **Year**: 2018 (Reaffirmed 2024)
-- **DOI**: [10.1212/WNL.0000000000005347](https://doi.org/10.1212/WNL.0000000000005347)
-- **PMID**: [29686116](https://pubmed.ncbi.nlm.nih.gov/29686116/)
-- **Source URL**: https://www.aan.com/Guidelines/home/GuidelineDetail/898
+organization: American Academy of Neurology
+collaborators: null
+country: US
+url: https://www.aan.com/Guidelines/home/GuidelineDetail/898
+doi: 10.1212/WNL.0000000000005347
+pmid: 29686116
+open_access: true
+
+specialty: neurology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - multiple sclerosis
+  - MS
+  - relapsing-remitting MS
+tags:
+  - disease-modifying therapy
+  - interferons
+  - natalizumab
+  - ocrelizumab
+
+publication_date: 2018-04-23
+previous_version_date: 2002-01-01
+status: current
+supersedes: aan-ms-legacy
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AAN Practice Guideline: Disease-Modifying Therapies for Adults with Multiple Sclerosis
 
 ## Scope
 Evidence-based recommendations for starting, switching, and stopping disease-modifying therapies (DMTs) in adults with multiple sclerosis (MS).

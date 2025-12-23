@@ -1,12 +1,41 @@
-# AASLD Practice Guidance on Clinical Assessment and Management of NAFLD/MASLD
+---
+id: aasld-masld-2023
+title: "AASLD Practice Guidance on Clinical Assessment and Management of NAFLD/MASLD"
+short_title: "AASLD MASLD 2023"
 
-## Metadata
-- **Specialty**: Hepatology, Gastroenterology
-- **Organization**: American Association for the Study of Liver Diseases (AASLD)
-- **Year**: 2023 (with 2024 updates)
-- **DOI**: [10.1097/HEP.0000000000000323](https://doi.org/10.1097/HEP.0000000000000323)
-- **PMID**: [36727674](https://pubmed.ncbi.nlm.nih.gov/36727674/)
-- **Source URL**: https://www.aasld.org/practice-guidelines/clinical-assessment-and-management-metabolic-dysfunction-associated-steatotic
+organization: American Association for the Study of Liver Diseases
+collaborators: null
+country: US
+url: https://www.aasld.org/practice-guidelines/clinical-assessment-and-management-metabolic-dysfunction-associated-steatotic
+doi: 10.1097/HEP.0000000000000323
+pmid: 36727674
+open_access: true
+
+specialty: gastroenterology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - NAFLD
+  - MASLD
+  - metabolic dysfunction-associated steatotic liver disease
+tags:
+  - FIB-4
+  - resmetirom
+  - weight loss
+  - fibrosis
+
+publication_date: 2023-01-01
+previous_version_date: 2018-01-01
+status: current
+supersedes: aasld-nafld-2018
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AASLD Practice Guidance on Clinical Assessment and Management of NAFLD/MASLD
 
 ## Scope
 Clinical guidance for assessment and management of nonalcoholic fatty liver disease (NAFLD), now termed metabolic dysfunction-associated steatotic liver disease (MASLD).

@@ -1,11 +1,43 @@
-# ECMM/ISHAM/ASM Global Guideline for Candidiasis
+---
+id: ecmm-candidiasis-2024
+title: "ECMM/ISHAM/ASM Global Guideline for Candidiasis"
+short_title: "ECMM Candidiasis 2024"
 
-## Metadata
-- **Specialty**: Infectious Disease, Critical Care
-- **Organization**: European Confederation of Medical Mycology (ECMM), International Society for Human and Animal Mycology (ISHAM), American Society for Microbiology (ASM)
-- **Year**: 2024
-- **DOI**: [10.1016/S1473-3099(24)00749-7](https://doi.org/10.1016/S1473-3099(24)00749-7)
-- **Source URL**: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00749-7/fulltext
+organization: European Confederation of Medical Mycology
+collaborators:
+  - International Society for Human and Animal Mycology
+  - American Society for Microbiology
+country: null
+url: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00749-7/fulltext
+doi: 10.1016/S1473-3099(24)00749-7
+pmid: 39685368
+open_access: true
+
+specialty: infectious-disease
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - candidiasis
+  - invasive candidiasis
+  - candidemia
+tags:
+  - echinocandins
+  - fluconazole
+  - rezafungin
+  - Candida auris
+
+publication_date: 2024-11-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ECMM/ISHAM/ASM Global Guideline for Candidiasis
 
 ## Scope
 Global guideline for the diagnosis and management of candidiasis, endorsed by 73 scientific societies including 66 national societies and 7 international societies.

@@ -1,12 +1,39 @@
-# ACOG Clinical Practice Guideline: First and Second Stage Labor Management
+---
+id: acog-labor-management-2024
+title: "ACOG Clinical Practice Guideline: First and Second Stage Labor Management"
+short_title: "ACOG Labor Management 2024"
 
-## Metadata
-- **Specialty**: Obstetrics and Gynecology
-- **Organization**: American College of Obstetricians and Gynecologists (ACOG)
-- **Year**: 2024
-- **DOI**: [10.1097/AOG.0000000000005447](https://doi.org/10.1097/AOG.0000000000005447)
-- **PMID**: [38096556](https://pubmed.ncbi.nlm.nih.gov/38096556/)
-- **Source URL**: https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2024/01/first-and-second-stage-labor-management
+organization: American College of Obstetricians and Gynecologists
+collaborators: null
+country: US
+url: https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2024/01/first-and-second-stage-labor-management
+doi: 10.1097/AOG.0000000000005447
+pmid: 38096556
+open_access: false
+
+specialty: obstetrics-gynecology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - labor
+  - childbirth
+  - dystocia
+tags:
+  - active phase
+  - second stage
+  - cesarean reduction
+  - oxytocin
+
+publication_date: 2024-01-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for defining labor stages and managing dystocia in the first and second stages of labor.

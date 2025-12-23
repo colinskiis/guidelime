@@ -1,12 +1,38 @@
-# ASA Practice Guidelines for Preoperative Fasting (2023 Update)
+---
+id: asa-preoperative-fasting-2023
+title: "ASA Practice Guidelines for Preoperative Fasting (2023 Update)"
+short_title: "ASA Preoperative Fasting 2023"
 
-## Metadata
-- **Specialty**: Anesthesiology
-- **Organization**: American Society of Anesthesiologists (ASA)
-- **Year**: 2023
-- **DOI**: [10.1097/ALN.0000000000004381](https://doi.org/10.1097/ALN.0000000000004381)
-- **PMID**: [36629465](https://pubmed.ncbi.nlm.nih.gov/36629465/)
-- **Source URL**: https://www.asahq.org/standards-and-practice-parameters
+organization: American Society of Anesthesiologists
+collaborators: null
+country: US
+url: https://www.asahq.org/standards-and-practice-parameters
+doi: 10.1097/ALN.0000000000004381
+pmid: 36629465
+open_access: true
+
+specialty: anesthesiology
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - preoperative fasting
+  - aspiration prevention
+tags:
+  - clear liquids
+  - solids
+  - chewing gum
+  - pediatrics
+
+publication_date: 2023-02-01
+previous_version_date: 2017-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Modular update of the 2017 ASA practice guidelines for preoperative fasting, addressing carbohydrate-containing clear liquids, chewing gum, and pediatric fasting duration.

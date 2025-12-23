@@ -1,12 +1,40 @@
-# ACR Guideline for the Management of Gout
+---
+id: acr-gout-2020
+title: "ACR Guideline for the Management of Gout"
+short_title: "ACR Gout 2020"
 
-## Metadata
-- **Specialty**: Rheumatology
-- **Organization**: American College of Rheumatology (ACR)
-- **Year**: 2020
-- **DOI**: [10.1002/acr.24180](https://doi.org/10.1002/acr.24180)
-- **PMID**: [32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)
-- **Source URL**: https://rheumatology.org/gout-guideline
+organization: American College of Rheumatology
+collaborators: null
+country: US
+url: https://rheumatology.org/gout-guideline
+doi: 10.1002/acr.24180
+pmid: 32391934
+open_access: true
+
+specialty: rheumatology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - gout
+  - hyperuricemia
+tags:
+  - urate-lowering therapy
+  - allopurinol
+  - colchicine
+  - treat-to-target
+
+publication_date: 2020-05-11
+previous_version_date: 2012-01-01
+status: current
+supersedes: acr-gout-2012
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ACR Guideline for the Management of Gout
 
 ## Scope
 Evidence-based recommendations for management of gout, including urate-lowering therapy (ULT) and acute flare management. Updates the 2012 ACR gout guidelines.

@@ -1,12 +1,41 @@
-# AACE Consensus Statement: Algorithm for Evaluation and Treatment of Obesity/ABCD
+---
+id: aace-obesity-algorithm-2025
+title: "AACE Consensus Statement: Algorithm for Evaluation and Treatment of Obesity/ABCD"
+short_title: "AACE Obesity Algorithm 2025"
 
-## Metadata
-- **Specialty**: Endocrinology, Primary Care
-- **Organization**: American Association of Clinical Endocrinology (AACE)
-- **Year**: 2025
-- **DOI**: [10.1016/j.eprac.2025.09.001](https://doi.org/10.1016/j.eprac.2025.09.001)
-- **PMID**: [40956256](https://pubmed.ncbi.nlm.nih.gov/40956256/)
-- **Source URL**: https://pro.aace.com/clinical-guidance/nutrition-and-obesity
+organization: American Association of Clinical Endocrinology
+collaborators: null
+country: US
+url: https://pro.aace.com/clinical-guidance/nutrition-and-obesity
+doi: 10.1016/j.eprac.2025.09.001
+pmid: 40956256
+open_access: true
+
+specialty: endocrinology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - obesity
+  - adiposity-based chronic disease
+  - ABCD
+tags:
+  - GLP-1 agonists
+  - metabolic surgery
+  - behavioral therapy
+  - BMI
+
+publication_date: 2025-01-01
+previous_version_date: 2019-01-01
+status: current
+supersedes: aace-obesity-2019
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# AACE Consensus Statement: Algorithm for Evaluation and Treatment of Obesity/ABCD
 
 ## Scope
 Evidence-based algorithmic guidance for person-centered evaluation and treatment of adults with obesity/adiposity-based chronic disease (ABCD).

@@ -1,12 +1,42 @@
-# EASL Clinical Practice Guidelines for the Management of Patients with Decompensated Cirrhosis
+---
+id: easl-decompensated-cirrhosis-2018
+title: "EASL Clinical Practice Guidelines for the Management of Patients with Decompensated Cirrhosis"
+short_title: "EASL Decompensated Cirrhosis 2018"
 
-## Metadata
-- **Specialty**: Gastroenterology, Hepatology
-- **Organization**: European Association for the Study of the Liver (EASL)
-- **Year**: 2018
-- **DOI**: [10.1016/j.jhep.2018.03.024](https://doi.org/10.1016/j.jhep.2018.03.024)
-- **PMID**: [29653741](https://pubmed.ncbi.nlm.nih.gov/29653741/)
-- **Source URL**: https://www.journal-of-hepatology.eu/article/S0168-8278(18)31966-4/fulltext
+organization: European Association for the Study of the Liver
+collaborators: null
+country: null
+url: https://www.journal-of-hepatology.eu/article/S0168-8278(18)31966-4/fulltext
+doi: 10.1016/j.jhep.2018.03.024
+pmid: 29653741
+open_access: true
+
+specialty: gastroenterology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - decompensated cirrhosis
+  - liver cirrhosis
+  - ascites
+  - encephalopathy
+tags:
+  - complications of cirrhosis
+  - SBP
+  - HRS
+  - variceal bleeding
+
+publication_date: 2018-04-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# EASL Clinical Practice Guidelines for the Management of Patients with Decompensated Cirrhosis
 
 ## Scope
 First comprehensive EASL guidelines on management of decompensated cirrhosis, covering ascites, hepatic encephalopathy, variceal bleeding, infections, and other complications.

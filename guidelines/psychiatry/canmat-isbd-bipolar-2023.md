@@ -1,11 +1,40 @@
-# CANMAT and ISBD Guidelines for the Treatment of Bipolar Disorder (2023 Update)
+---
+id: canmat-isbd-bipolar-2023
+title: "CANMAT and ISBD Guidelines for the Treatment of Bipolar Disorder (2023 Update)"
+short_title: "CANMAT Bipolar 2023"
 
-## Metadata
-- **Specialty**: Psychiatry
-- **Organization**: Canadian Network for Mood and Anxiety Treatments (CANMAT), International Society for Bipolar Disorders (ISBD)
-- **Year**: 2023 (Update to 2018 guidelines)
-- **DOI**: [10.1176/appi.focus.20230009](https://doi.org/10.1176/appi.focus.20230009)
-- **Source URL**: https://psychiatryonline.org/doi/full/10.1176/appi.focus.20230009
+organization: Canadian Network for Mood and Anxiety Treatments
+collaborators:
+  - International Society for Bipolar Disorders
+country: CA
+url: https://psychiatryonline.org/doi/full/10.1176/appi.focus.20230009
+doi: 10.1176/appi.focus.20230009
+pmid: null
+open_access: false
+
+specialty: psychiatry
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - bipolar disorder
+  - mania
+  - bipolar depression
+tags:
+  - lithium
+  - quetiapine
+  - lamotrigine
+  - maintenance therapy
+
+publication_date: 2023-11-01
+previous_version_date: 2018-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Updated evidence-based recommendations for the treatment of bipolar I and II disorder, including acute mania, bipolar depression, and maintenance therapy.

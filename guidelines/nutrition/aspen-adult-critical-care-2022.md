@@ -1,12 +1,38 @@
-# ASPEN Guideline: Nutrition Support in Adult Critically Ill Patients
+---
+id: aspen-adult-critical-care-2022
+title: "ASPEN Guideline: Nutrition Support in Adult Critically Ill Patients"
+short_title: "ASPEN Critical Care Nutrition 2022"
 
-## Metadata
-- **Specialty**: Nutrition, Critical Care
-- **Organization**: American Society for Parenteral and Enteral Nutrition (ASPEN)
-- **Year**: 2022
-- **DOI**: [10.1002/jpen.2267](https://doi.org/10.1002/jpen.2267)
-- **PMID**: [34784064](https://pubmed.ncbi.nlm.nih.gov/34784064/)
-- **Source URL**: https://nutritioncare.org/clinical-resources/guidelines-standards/
+organization: American Society for Parenteral and Enteral Nutrition
+collaborators: null
+country: US
+url: https://nutritioncare.org/clinical-resources/guidelines-standards/
+doi: 10.1002/jpen.2267
+pmid: 34784064
+open_access: true
+
+specialty: nutrition
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - critical illness
+  - ICU nutrition
+tags:
+  - enteral nutrition
+  - parenteral nutrition
+  - protein requirements
+  - indirect calorimetry
+
+publication_date: 2022-01-01
+previous_version_date: 2016-01-01
+status: current
+supersedes: aspen-adult-critical-care-2016
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for nutrition support therapy in adult critically ill patients, updating the 2016 ASPEN/SCCM guidelines.

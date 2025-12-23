@@ -1,11 +1,41 @@
-# ATS/IDSA Guideline for Diagnosis and Treatment of Adults with Community-Acquired Pneumonia
+---
+id: ats-idsa-cap-2019
+title: "ATS/IDSA Guideline for Diagnosis and Treatment of Adults with Community-Acquired Pneumonia"
+short_title: "ATS/IDSA CAP 2019"
 
-## Metadata
-- **Specialty**: Pulmonology, Infectious Disease
-- **Organization**: American Thoracic Society (ATS), Infectious Diseases Society of America (IDSA)
-- **Year**: 2019
-- **DOI**: [10.1164/rccm.201908-1581ST](https://doi.org/10.1164/rccm.201908-1581ST)
-- **Source URL**: https://www.atsjournals.org/doi/full/10.1164/rccm.201908-1581ST
+organization: American Thoracic Society
+collaborators:
+  - Infectious Diseases Society of America
+country: US
+url: https://www.atsjournals.org/doi/full/10.1164/rccm.201908-1581ST
+doi: 10.1164/rccm.201908-1581ST
+pmid: 31573380
+open_access: true
+
+specialty: pulmonology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - community-acquired pneumonia
+  - CAP
+tags:
+  - amoxicillin
+  - macrolides
+  - fluoroquinolones
+  - PSI score
+
+publication_date: 2019-10-01
+previous_version_date: 2007-01-01
+status: current
+supersedes: ats-idsa-cap-2007
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ATS/IDSA Guideline for Diagnosis and Treatment of Adults with Community-Acquired Pneumonia
 
 ## Scope
 Official clinical practice guideline for diagnosis and treatment of community-acquired pneumonia (CAP) in immunocompetent adults.

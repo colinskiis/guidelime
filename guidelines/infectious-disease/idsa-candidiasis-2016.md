@@ -1,12 +1,40 @@
-# IDSA Clinical Practice Guideline for the Management of Candidiasis
+---
+id: idsa-candidiasis-2016
+title: "IDSA Clinical Practice Guideline for the Management of Candidiasis"
+short_title: "IDSA Candidiasis 2016"
 
-## Metadata
-- **Specialty**: Infectious Disease
-- **Organization**: Infectious Diseases Society of America (IDSA)
-- **Year**: 2016
-- **DOI**: [10.1093/cid/civ933](https://doi.org/10.1093/cid/civ933)
-- **PMID**: [26679628](https://pubmed.ncbi.nlm.nih.gov/26679628/)
-- **Source URL**: https://www.idsociety.org/practice-guideline/candidiasis/
+organization: Infectious Diseases Society of America
+collaborators: null
+country: US
+url: https://www.idsociety.org/practice-guideline/candidiasis/
+doi: 10.1093/cid/civ933
+pmid: 26679628
+open_access: true
+
+specialty: infectious-disease
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - candidiasis
+  - candidemia
+tags:
+  - echinocandins
+  - fluconazole
+  - amphotericin B
+  - step-down therapy
+
+publication_date: 2016-01-01
+previous_version_date: 2009-01-01
+status: current
+supersedes: idsa-candidiasis-2009
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# IDSA Clinical Practice Guideline for the Management of Candidiasis
 
 ## Scope
 Evidence-based recommendations for treatment of mucocutaneous and invasive candidiasis, including candidemia, in nonneutropenic and neutropenic patients.

@@ -1,12 +1,39 @@
-# AGS Beers Criteria® for Potentially Inappropriate Medication Use in Older Adults
+---
+id: ags-beers-criteria-2023
+title: "AGS Beers Criteria® for Potentially Inappropriate Medication Use in Older Adults"
+short_title: "AGS Beers Criteria 2023"
 
-## Metadata
-- **Specialty**: Geriatrics
-- **Organization**: American Geriatrics Society (AGS)
-- **Year**: 2023
-- **DOI**: [10.1111/jgs.18372](https://doi.org/10.1111/jgs.18372)
-- **PMID**: [37139824](https://pubmed.ncbi.nlm.nih.gov/37139824/)
-- **Source URL**: https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372
+organization: American Geriatrics Society
+collaborators: null
+country: US
+url: https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372
+doi: 10.1111/jgs.18372
+pmid: 37139824
+open_access: false
+
+specialty: geriatrics
+guideline_type: clinical-practice
+evidence_system: null
+conditions:
+  - potentially inappropriate medications
+  - PIMs
+  - geriatrics
+tags:
+  - anticholinergics
+  - benzodiazepines
+  - deprescribing
+  - medication safety
+
+publication_date: 2023-05-01
+previous_version_date: 2019-01-01
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based list of potentially inappropriate medications (PIMs) for adults ≥65 years, intended to reduce adverse drug events in older adults across all care settings (except hospice/end-of-life).

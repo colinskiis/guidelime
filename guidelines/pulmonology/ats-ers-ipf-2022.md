@@ -1,12 +1,44 @@
-# ATS/ERS/JRS/ALAT Clinical Practice Guideline: Idiopathic Pulmonary Fibrosis and Progressive Pulmonary Fibrosis
+---
+id: ats-ers-ipf-2022
+title: "ATS/ERS/JRS/ALAT Clinical Practice Guideline: Idiopathic Pulmonary Fibrosis and Progressive Pulmonary Fibrosis"
+short_title: "ATS IPF/PPF 2022"
 
-## Metadata
-- **Specialty**: Pulmonology
-- **Organization**: American Thoracic Society (ATS), European Respiratory Society (ERS), Japanese Respiratory Society (JRS), Latin American Thoracic Association (ALAT)
-- **Year**: 2022
-- **DOI**: [10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)
-- **PMID**: [35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)
-- **Source URL**: https://www.thoracic.org/statements/guideline-implementation-tools/matrix-guidelines-and-derivatives-ipf-update.php
+organization: American Thoracic Society
+collaborators:
+  - European Respiratory Society
+  - Japanese Respiratory Society
+  - Latin American Thoracic Association
+country: US
+url: https://www.thoracic.org/statements/guideline-implementation-tools/matrix-guidelines-and-derivatives-ipf-update.php
+doi: 10.1164/rccm.202202-0399ST
+pmid: 35486072
+open_access: true
+
+specialty: pulmonology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - idiopathic pulmonary fibrosis
+  - progressive pulmonary fibrosis
+  - interstitial lung disease
+tags:
+  - nintedanib
+  - pirfenidone
+  - HRCT
+  - lung transplant
+
+publication_date: 2022-05-01
+previous_version_date: 2018-01-01
+status: current
+supersedes: ats-ipf-2018
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ATS/ERS/JRS/ALAT Clinical Practice Guideline: Idiopathic Pulmonary Fibrosis and Progressive Pulmonary Fibrosis
 
 ## Scope
 Updated clinical practice guidelines for diagnosis and treatment of idiopathic pulmonary fibrosis (IPF) and progressive pulmonary fibrosis (PPF) in adults.

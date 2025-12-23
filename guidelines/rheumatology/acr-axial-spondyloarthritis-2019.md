@@ -1,12 +1,43 @@
-# ACR/SAA/SPARTAN Guidelines for Treatment of Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis
+---
+id: acr-axial-spondyloarthritis-2019
+title: "ACR/SAA/SPARTAN Guidelines for Treatment of Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis"
+short_title: "ACR Axial SpA 2019"
 
-## Metadata
-- **Specialty**: Rheumatology
-- **Organization**: American College of Rheumatology (ACR), Spondylitis Association of America (SAA), Spondyloarthritis Research and Treatment Network (SPARTAN)
-- **Year**: 2019
-- **DOI**: [10.1002/art.41042](https://doi.org/10.1002/art.41042)
-- **PMID**: [31436036](https://pubmed.ncbi.nlm.nih.gov/31436036/)
-- **Source URL**: https://rheumatology.org/axial-spondyloarthritis-guideline
+organization: American College of Rheumatology
+collaborators:
+  - Spondylitis Association of America
+  - Spondyloarthritis Research and Treatment Network
+country: US
+url: https://rheumatology.org/axial-spondyloarthritis-guideline
+doi: 10.1002/art.41042
+pmid: 31436036
+open_access: true
+
+specialty: rheumatology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - ankylosing spondylitis
+  - nonradiographic axial spondyloarthritis
+  - axial spondyloarthritis
+tags:
+  - NSAIDs
+  - TNF inhibitors
+  - IL-17 inhibitors
+  - JAK inhibitors
+
+publication_date: 2019-08-21
+previous_version_date: 2015-09-24
+status: current
+supersedes: acr-axspa-2015
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ACR/SAA/SPARTAN Guidelines for Treatment of Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis
 
 ## Scope
 Evidence-based recommendations for the pharmacologic and non-pharmacologic treatment of ankylosing spondylitis (AS) and nonradiographic axial spondyloarthritis (nr-axSpA) in adults.

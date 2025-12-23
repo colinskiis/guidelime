@@ -1,11 +1,39 @@
-# KDIGO Clinical Practice Guideline for Acute Kidney Injury
+---
+id: kdigo-aki-2012
+title: "KDIGO Clinical Practice Guideline for Acute Kidney Injury"
+short_title: "KDIGO AKI 2012"
 
-## Metadata
-- **Specialty**: Nephrology, Critical Care
-- **Organization**: Kidney Disease: Improving Global Outcomes (KDIGO)
-- **Year**: 2012
-- **PMID**: [22890468](https://pubmed.ncbi.nlm.nih.gov/22890468/)
-- **Source URL**: https://kdigo.org/guidelines/acute-kidney-injury/
+organization: Kidney Disease Improving Global Outcomes
+collaborators: null
+country: null
+url: https://kdigo.org/guidelines/acute-kidney-injury/
+doi: null
+pmid: 22890468
+open_access: true
+
+specialty: nephrology
+guideline_type: clinical-practice
+evidence_system: GRADE
+conditions:
+  - acute kidney injury
+  - AKI
+  - renal failure
+tags:
+  - staging
+  - RRT
+  - nephrotoxins
+  - contrast AKI
+
+publication_date: 2012-03-01
+previous_version_date: null
+status: current
+supersedes: null
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
 
 ## Scope
 Evidence-based recommendations for the definition, evaluation, prevention, and treatment of acute kidney injury (AKI).

@@ -1,12 +1,42 @@
-# ESC Guidelines for the Management of Peripheral Arterial and Aortic Diseases
+---
+id: esc-peripheral-artery-disease-2024
+title: "2024 ESC Guidelines for the Management of Peripheral Arterial and Aortic Diseases"
+short_title: "ESC PAD & Aorta 2024"
 
-## Metadata
-- **Specialty**: Cardiology, Vascular Surgery
-- **Organization**: European Society of Cardiology (ESC)
-- **Year**: 2024
-- **DOI**: [10.1093/eurheartj/ehae179](https://doi.org/10.1093/eurheartj/ehae179)
-- **PMID**: [39210722](https://pubmed.ncbi.nlm.nih.gov/39210722/)
-- **Source URL**: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Peripheral-Arterial-and-Aortic-Diseases
+organization: European Society of Cardiology
+collaborators: null
+country: null
+url: https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Peripheral-Arterial-and-Aortic-Diseases
+doi: 10.1093/eurheartj/ehae179
+pmid: 39210722
+open_access: true
+
+specialty: cardiology
+guideline_type: clinical-practice
+evidence_system: other
+conditions:
+  - peripheral arterial disease
+  - PAD
+  - aortic aneurysm
+  - aortic dissection
+tags:
+  - ABI
+  - claudication
+  - statins
+  - vascular surgery
+
+publication_date: 2024-08-31
+previous_version_date: 2017-08-26
+status: current
+supersedes: esc-pad-2017
+superseded_by: null
+
+pdf_path: null
+has_pdf: false
+last_reviewed: 2025-12-22
+---
+
+# ESC Guidelines for the Management of Peripheral Arterial and Aortic Diseases
 
 ## Scope
 Comprehensive guidelines for diagnosis and management of peripheral arterial diseases (PAD) and aortic diseases, combining and updating 2017 PAD and 2014 aortic guidelines.
