@@ -166,3 +166,10 @@
 | 2025-12-23 | AAD | 1 | Atopic Dermatitis focused update (2025) |
 | 2025-12-23 | ASAM | 1 | Stimulant Use Disorder guideline (2024) |
 | 2025-12-23 | AGS | 1 | Alternatives for Beers Criteria meds (2025) |
+| 2025-12-23 | IDSA | 2 | Complicated UTI, AMR Gram-Negative guidance (2024/25) |
+| 2025-12-23 | Endocrine | 1 | Primary Aldosteronism guideline (2025) |
+| 2025-12-23 | AAO-HNS | 1 | Adult Sinusitis update (2025) |
+| 2025-12-23 | AAO | 1 | Diabetic Retinopathy PPP (2025) |
+| 2025-12-23 | ACC/AHA | 1 | Acute Coronary Syndromes (ACS) update (2025) |
+| 2025-12-23 | VA/DoD | 1 | Lower limb amputation rehab (2025) |
+| 2025-12-23 | NICE | 1 | CKD assessment and management update (2025) |

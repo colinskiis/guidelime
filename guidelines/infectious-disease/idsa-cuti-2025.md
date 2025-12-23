@@ -1,13 +1,13 @@
 ---
 id: idsa-cuti-2025
-title: "2025 IDSA Clinical Practice Guideline for the Treatment and Management of Complicated Urinary Tract Infections"
+title: "IDSA 2025 Clinical Practice Guideline: Management and Treatment of Complicated Urinary Tract Infections (cUTI)"
 short_title: "IDSA cUTI 2025"
 
 organization: Infectious Diseases Society of America
 collaborators: null
 country: US
 url: https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/
-doi: 10.1093/cid/ciae280
+doi: null
 pmid: null
 open_access: true
 
@@ -15,14 +15,16 @@ specialty: infectious-disease
 guideline_type: clinical-practice
 evidence_system: GRADE
 conditions:
-  - urinary tract infection
+  - complicated urinary tract infection
+  - cUTI
   - pyelonephritis
-  - complicated UTI
-  - urosepsis
+  - catheter-associated UTI
 tags:
   - antibiotic stewardship
-  - multidrug resistance
-  - catheter-associated UTI
+  - ESBL
+  - pseudomonas
+  - resistance
+  - urology-infectious disease interface
 
 publication_date: 2025-07-17
 previous_version_date: null
@@ -32,30 +34,34 @@ superseded_by: null
 
 pdf_path: null
 has_pdf: false
-last_reviewed: 2025-12-22
+last_reviewed: 2025-12-23
 ---
 
-# IDSA 2025 Guideline for Complicated Urinary Tract Infections
-
 ## Scope
-
-Provides evidence-based recommendations for the diagnosis and management of complicated urinary tract infections (cUTI), including pyelonephritis and infections associated with anatomical or functional abnormalities.
+First IDSA guideline dedicated specifically to the classification, diagnosis, and management of complicated urinary tract infections (cUTI) in adults, including pyelonephritis in patients with structural or functional abnormalities.
 
 ## Key Recommendations
 
-### Definitions
-- Expands cUTI definition to include both male and female patients with risks for treatment failure or serious complications.
-- Emphasizes the role of infection site and systemic involvement over simple anatomical definitions.
+### Definition and Classification
+- **cUTI Definition**: Infections occurring in individuals with structural or functional abnormalities of the urinary tract (e.g., indwelling catheters, neurogenic bladder, stones, or prior instrumentation).
+- **Distinction**: Clearly distinguishes cUTI from uncomplicated cystitis to guide more intensive evaluation and longer treatment durations when necessary.
 
-### Diagnosis
-- Urine culture and susceptibility testing are required for all cases of cUTI.
-- Imaging (CT/US) recommended for patients with persistent symptoms or suspected obstruction/abscess.
+### Diagnostic Evaluation
+- **Urine Culture**: Mandatory for all patients with suspected cUTI to guide pathogen-specific therapy.
+- **Imaging**: Recommends prompt renal tract imaging (e.g., US or CT) if the patient remains febrile or symptomatic after 48-72 hours of appropriate antibiotic therapy to rule out obstruction or abscess.
 
-### Treatment
-- Choice of agent should be guided by local antibiogram and patient-specific risk factors for MDR pathogens.
-- For stable patients, oral therapy (e.g., fluoroquinolones, TMP-SMX) is preferred if susceptibility is confirmed.
-- Duration of therapy: Generally 7-10 days for pyelonephritis and cUTI, depending on clinical response.
+### Empiric Therapy
+- **Risk Assessment**: Choice of empiric therapy should be based on local resistance data and the patient's individual risk factors for multi-drug resistant (MDR) organisms (e.g., prior ESBL, recent hospitalization).
+- **ESBL Risk**: For patients at high risk for ESBL-producing Enterobacterales, a carbapenem or newer beta-lactam/beta-lactamase inhibitor (e.g., ceftazidime-avibactam) may be indicated.
+- **Pseudomonas Risk**: Ensure empiric coverage includes antipseudomonal agents if risk factors are present.
 
-## Notes
+### Directed Therapy and Duration
+- **De-escalation**: Strongly recommends narrowing therapy based on culture results as soon as possible.
+- **Duration**: 
+  - For most cUTIs with rapid clinical response: 7 days.
+  - For pyelonephritis or cases with delayed response: 10-14 days.
+  - Long-term suppressive therapy is generally discouraged unless specifically indicated for recurrent, non-remediable structural issues.
 
-This is a major new guideline specifically addressing the complex management of UTIs beyond simple cystitis.
+### Catheter-Associated UTI (CAUTI)
+- **Management**: Recommends removal or replacement of the indwelling catheter if it has been in place for >2 weeks and remains necessary.
+- **Screening**: Discourages screening for or treating asymptomatic bacteriuria in catheterized patients.
