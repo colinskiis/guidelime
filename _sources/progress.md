@@ -173,3 +173,7 @@
 | 2025-12-23 | ACC/AHA | 1 | Acute Coronary Syndromes (ACS) update (2025) |
 | 2025-12-23 | VA/DoD | 1 | Lower limb amputation rehab (2025) |
 | 2025-12-23 | NICE | 1 | CKD assessment and management update (2025) |
+| 2025-12-23 | AHA | 1 | CPR and ECC 5-year update (2025) |
+| 2025-12-23 | ADA | 1 | Standards of Care in Diabetes (2025) |
+| 2025-12-23 | ACOG | 1 | Prenatal care delivery update (2025) |
+| 2025-12-23 | AAP | 1 | Immunization schedule and COVID/RSV (2025) |
