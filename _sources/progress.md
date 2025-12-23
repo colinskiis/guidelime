@@ -177,3 +177,9 @@
 | 2025-12-23 | ADA | 1 | Standards of Care in Diabetes (2025) |
 | 2025-12-23 | ACOG | 1 | Prenatal care delivery update (2025) |
 | 2025-12-23 | AAP | 1 | Immunization schedule and COVID/RSV (2025) |
+| 2025-12-23 | CANMAT | 1 | Perinatal Mood Disorders guideline (2024/25) |
+| 2025-12-23 | EACS | 1 | HIV care guidelines v13.0 (2025) |
+| 2025-12-23 | EASL | 1 | Hepatitis B clinical practice guideline (2025) |
+| 2025-12-23 | BSG | 2 | IBD management and FIT in IDA (2025) |
+| 2025-12-23 | AACE | 1 | Dyslipidemia pharmacologic management (2025) |
+| 2025-12-23 | EAN | 1 | Parkinson's disease clinical practice guideline (2025) |
