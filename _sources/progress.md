@@ -183,3 +183,7 @@
 | 2025-12-23 | BSG | 2 | IBD management and FIT in IDA (2025) |
 | 2025-12-23 | AACE | 1 | Dyslipidemia pharmacologic management (2025) |
 | 2025-12-23 | EAN | 1 | Parkinson's disease clinical practice guideline (2025) |
+| 2025-12-23 | ESICM | 1 | Circulatory shock and hemodynamic monitoring (2025) |
+| 2025-12-23 | BSR | 1 | conventional synthetic DMARDs monitoring (2025) |
+| 2025-12-23 | ESMO | 2 | CLL update and Safe use of LLMs in Oncology (2025) |
+| 2025-12-23 | SAGES | 1 | Surgical management of bile duct injury (2025) |
