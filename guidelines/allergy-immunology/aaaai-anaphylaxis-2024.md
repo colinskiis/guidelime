@@ -1,13 +1,13 @@
 ---
-id: aaaai-anaphylaxis-2024
-title: "AAAAI/ACAAI 2024 Anaphylaxis Practice Parameter Update"
+id: aaaai-acaai-anaphylaxis-2024
+title: "AAAAI/ACAAI 2024 Practice Parameter Update: Diagnosis and Management of Anaphylaxis"
 short_title: "AAAAI Anaphylaxis 2024"
 
 organization: American Academy of Allergy, Asthma & Immunology
 collaborators:
-  - American College of Allergy, Asthma and Immunology
+  - American College of Allergy, Asthma & Immunology
 country: US
-url: https://www.aaaai.org/practice-resources
+url: https://www.aaaai.org/practice-parameters
 doi: null
 pmid: null
 open_access: true
@@ -18,47 +18,50 @@ evidence_system: JTFPP
 conditions:
   - anaphylaxis
   - allergic reaction
-  - drug allergy
   - food allergy
-  - venom allergy
+  - drug allergy
 tags:
   - epinephrine
-  - auto-injectors
-  - emergency treatment
-  - tryptase
+  - antihistamines
+  - mast cell activation
+  - immunotherapy
+  - emergency management
 
-publication_date: 2024-02-15
-previous_version_date: 2020-11-01
+publication_date: 2024-01-15
+previous_version_date: 2020-01-01
 status: current
 supersedes: null
 superseded_by: null
 
 pdf_path: null
 has_pdf: false
-last_reviewed: 2025-12-23
+last_reviewed: 2025-12-24
 ---
 
 ## Scope
-2024 practice parameter update from the Joint Task Force on Practice Parameters (JTFPP), providing the latest evidence-based recommendations for the diagnosis and management of anaphylaxis.
+2024 update to the Joint Task Force Practice Parameter on the diagnosis and management of anaphylaxis.
 
 ## Key Recommendations
 
 ### Diagnosis
-- **Clinical Diagnosis**: Anaphylaxis is a clinical diagnosis based on the rapid onset of typical signs and symptoms (skin/mucosal, respiratory, cardiovascular, GI) after exposure to a likely allergen.
-- **Tryptase**: A peak serum tryptase level >11.4 ng/mL (or >1.2x baseline + 2 ng/mL) supports the diagnosis but is not required. It should be drawn 15 minutes to 3 hours after symptom onset.
+- Anaphylaxis is a clinical diagnosis based on rapid onset of symptoms involving skin/mucosal tissue AND at least one other organ system (respiratory, cardiovascular, GI).
+- Tryptase levels: Elevated serum tryptase (>2 + 1.2x baseline) supports the diagnosis but is not required.
 
-### Acute Management
-- **Epinephrine is First-Line**: Intramuscular epinephrine (0.3-0.5 mg in adults) into the mid-outer thigh is the first-line and most critical treatment for anaphylaxis. There is no absolute contraindication to epinephrine in anaphylaxis.
-- **Positioning**: Patients should lie supine with lower extremities raised (unless respiratory distress or vomiting requires an upright position).
-- **Adjunctive Therapies**: IV fluids for hypotension. H1-antihistamines and corticosteroids may help address skin symptoms but do not treat or prevent the core, life-threatening features of anaphylaxis.
+### First-Line Treatment
+- **Epinephrine (IM)**: The ONLY first-line treatment. Administer immediately, intramuscularly into the mid-outer thigh (0.01 mg/kg, max 0.5 mg adults, 0.3 mg children).
+- **Repeat Dosing**: A second dose may be given after 5-15 minutes if symptoms persist or recur.
+- **Positioning**: Place patient supine with lower extremities elevated unless contraindicated.
 
-### Observation
-- **Monitoring Period**: Patients should be observed for at least 4–6 hours after the resolution of symptoms due to the risk of biphasic reactions (up to 20% of cases).
-- **Criteria for Discharge**: Symptom resolution, patient education on avoidance, and provision of at least two epinephrine auto-injector prescriptions.
+### Adjunctive Therapies
+- **H1-Antihistamines**: May relieve cutaneous symptoms but do NOT treat cardiovascular or respiratory compromise. Should NOT delay epinephrine.
+- **Glucocorticoids**: Evidence for preventing biphasic reactions is weak; use is optional.
+- **Bronchodilators (Albuterol)**: For bronchospasm refractory to epinephrine.
 
-### Long-Term Management
-- **Allergy Referral**: All patients should be referred to an allergist for identification of the trigger and management of future risk.
-- **Action Plan**: A written anaphylaxis emergency action plan should be provided.
-- **Avoidance**: Strict avoidance of identified triggers is key.
-- **Venom Immunotherapy**: Should be offered to patients with systemic reactions to stinging insects.
-- **Medical Alert**: Recommend wearing medical identification jewelry.
+### Post-Anaphylaxis Management
+- **Observation**: Monitor for 4-8 hours or longer depending on severity and risk of biphasic reaction.
+- **Epinephrine Auto-Injector (EAI) Prescription**: Prescribe at least 2 EAIs at discharge for all patients experiencing anaphylaxis.
+- **Allergy Referral**: Refer for evaluation to identify triggers and for consideration of allergen immunotherapy where applicable.
+
+### Special Populations
+- **Infants**: Diagnosis can be challenging; epinephrine is safe and indicated.
+- **Mast Cell Disorders**: Patients with mastocytosis or elevated baseline tryptase are at higher risk for severe anaphylaxis.
