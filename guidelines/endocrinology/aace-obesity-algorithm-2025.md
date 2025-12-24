@@ -1,231 +1,69 @@
 ---
 id: aace-obesity-algorithm-2025
-title: "AACE Consensus Statement: Algorithm for Evaluation and Treatment of Obesity/ABCD"
+title: "AACE 2025 Consensus Statement: Algorithm for the Evaluation and Treatment of Adults with Obesity/Adiposity-Based Chronic Disease"
 short_title: "AACE Obesity Algorithm 2025"
 
 organization: American Association of Clinical Endocrinology
 collaborators: null
 country: US
-url: https://pro.aace.com/clinical-guidance/nutrition-and-obesity
-doi: 10.1016/j.eprac.2025.09.001
-pmid: 40956256
+url: https://www.aace.com/publications/clinical-guidance
+doi: null
+pmid: null
 open_access: true
 
 specialty: endocrinology
 guideline_type: clinical-practice
-evidence_system: other
+evidence_system: AACE
 conditions:
   - obesity
   - adiposity-based chronic disease
-  - ABCD
+  - metabolic syndrome
 tags:
   - GLP-1 agonists
-  - metabolic surgery
-  - behavioral therapy
-  - BMI
+  - tirzepatide
+  - bariatric surgery
+  - phentermine
+  - lifestyle intervention
 
-publication_date: 2025-01-01
-previous_version_date: 2019-01-01
+publication_date: 2025-02-01
+previous_version_date: 2023-01-01
 status: current
-supersedes: aace-obesity-2019
+supersedes: null
 superseded_by: null
 
 pdf_path: null
 has_pdf: false
-last_reviewed: 2025-12-22
+last_reviewed: 2025-12-23
 ---
 
-# AACE Consensus Statement: Algorithm for Evaluation and Treatment of Obesity/ABCD
-
 ## Scope
-Evidence-based algorithmic guidance for person-centered evaluation and treatment of adults with obesity/adiposity-based chronic disease (ABCD).
+2025 update to the AACE visual algorithm for the evaluation and treatment of adults with obesity and adiposity-based chronic disease (ABCD).
 
 ## Key Recommendations
 
-### Guiding Principles
+### Staging (Edmonds Staging System for ABCD)
+- **Stage 0**: No complications.
+- **Stage 1**: Mild complications (e.g., prediabetes, mild hypertension).
+- **Stage 2**: Moderate complications (e.g., T2DM, OSA, significant joint disease).
+- **Stage 3**: Severe complications (end-organ damage, e.g., HF, CKD stage 4-5, significant mobility impairment).
 
-#### Disease Recognition
-| Concept | Details |
-|---------|---------|
-| ABCD | Adiposity-Based Chronic Disease |
-| Chronic disease | Requires long-term treatment |
-| Beyond BMI | Complication-centric approach |
-| Health optimization | Not just weight reduction |
+### Treatment Goals
+- Focus on health outcomes, not just weight loss on a scale.
+- Target weight loss of ≥10-15% for improved comorbidity control with pharmacotherapy; ≥20-30% with surgery.
 
-#### Person-Centered Care
-| Principle | Details |
-|-----------|---------|
-| Weight bias | Address and reduce stigma |
-| Shared decision-making | Central to treatment |
-| Individual goals | Patient-defined objectives |
-| Biopsychosocial model | Comprehensive approach |
-
-### Diagnosis and Evaluation
-
-#### Initial Assessment
-| Component | Details |
-|-----------|---------|
-| BMI | Calculate and document |
-| Body composition | Consider if available |
-| Waist circumference | Abdominal adiposity |
-| Medical history | Obesity-related complications |
-| Medication review | Weight-affecting medications |
-
-#### Obesity-Related Chronic Diseases (ORCD)
-| Category | Examples |
-|----------|----------|
-| Cardiovascular | Hypertension, dyslipidemia, atherosclerosis |
-| Metabolic | Type 2 diabetes, prediabetes, MASLD |
-| Mechanical | Osteoarthritis, sleep apnea |
-| Reproductive | PCOS, infertility |
-| Psychological | Depression, eating disorders |
-| Cancer | Obesity-related malignancies |
-
-#### Staging
-| Stage | Description |
-|-------|-------------|
-| Stage 0 | No complications |
-| Stage 1 | 1-2 mild/moderate complications |
-| Stage 2 | ≥1 severe complication |
-
-### Behavioral/Lifestyle Therapy
-
-#### Nutrition
-| Recommendation | Details |
-|----------------|---------|
-| Caloric deficit | Individualized reduction |
-| Diet pattern | Evidence-based approaches |
-| Mediterranean | Strong evidence |
-| Low carbohydrate | Effective option |
-| Protein | Adequate intake (1-1.5 g/kg) |
-
-#### Physical Activity
-| Component | Recommendation |
-|-----------|----------------|
-| Aerobic | 150-300 min/week moderate intensity |
-| Resistance | 2-3 sessions/week |
-| Reduction in sedentary time | Throughout day |
-| Individualization | Based on abilities and preferences |
-
-#### Behavioral Interventions
-| Technique | Details |
-|-----------|---------|
-| Self-monitoring | Food diaries, weight tracking |
-| Goal setting | SMART goals |
-| Stimulus control | Modify environment |
-| Stress management | Address emotional eating |
-| Cognitive restructuring | Address thought patterns |
-
-#### Sleep
-- Optimize sleep duration (7-9 hours)
-- Address sleep disorders
-- Sleep apnea screening and treatment
+### Lifestyle Intervention
+- Foundation of therapy for all stages.
+- Reduced-calorie diet, increased physical activity, behavioral support.
 
 ### Pharmacotherapy
+- **Indicated for**: BMI ≥27 kg/m² with at least one obesity-related complication, or BMI ≥30 kg/m².
+- **GLP-1 Receptor Agonists (Semaglutide 2.4mg)**: First-line pharmacotherapy for most patients given excellent efficacy and safety profile.
+- **Tirzepatide (GLP-1/GIP dual agonist)**: Superior weight loss efficacy; considered a preferred agent.
+- **Other Agents**: Phentermine-topiramate, naltrexone-bupropion, orlistat. Selection based on patient profile and contraindications.
 
-#### When to Consider
-| Indication | Details |
-|------------|---------|
-| BMI ≥30 | With lifestyle modification |
-| BMI ≥27 | With obesity-related complication |
-| Failed lifestyle | Insufficient response to diet/exercise |
+### Metabolic/Bariatric Surgery
+- **Indicated for**: BMI ≥40 kg/m², or BMI ≥35 kg/m² with significant obesity-related complications, or BMI ≥30 kg/m² with T2DM inadequately controlled on optimal medical therapy.
+- Procedures: Sleeve gastrectomy, Roux-en-Y gastric bypass, One-anastomosis gastric bypass (OAGB), etc.
 
-#### Medication Selection
-| Approach | Details |
-|----------|---------|
-| Complication-centric | Target specific ORCDs |
-| Efficacy | Consider expected weight loss |
-| Side effects | Patient-specific tolerability |
-| Cost | Insurance coverage, affordability |
-| Patient preference | Injection vs oral |
-
-#### Medication Hierarchy
-| Priority | Agents |
-|----------|--------|
-| High efficacy | GLP-1 agonists (semaglutide, tirzepatide) |
-| Moderate efficacy | Phentermine-topiramate, naltrexone-bupropion |
-| Older agents | Phentermine (short-term), orlistat |
-
-#### GLP-1 Receptor Agonists
-| Medication | Efficacy |
-|------------|----------|
-| Tirzepatide | ~20% weight loss |
-| Semaglutide 2.4 mg | ~15% weight loss |
-| Liraglutide 3.0 mg | ~8% weight loss |
-
-#### Considerations by Comorbidity
-| Comorbidity | Preferred Agents |
-|-------------|------------------|
-| Type 2 diabetes | GLP-1 agonists, tirzepatide |
-| Cardiovascular disease | Semaglutide (proven CV benefit) |
-| Depression/anxiety | Avoid bupropion if contraindicated |
-| Seizure history | Avoid topiramate |
-| Substance abuse | Avoid controlled substances |
-
-### Metabolic Surgery
-
-#### Indications
-| BMI | Criteria |
-|-----|----------|
-| ≥40 | With or without complications |
-| ≥35 | With at least one obesity-related comorbidity |
-| 30-34.9 | Consider if diabetes with inadequate control |
-
-#### Procedures
-| Procedure | Expected Weight Loss |
-|-----------|---------------------|
-| Sleeve gastrectomy | 25-30% |
-| Roux-en-Y gastric bypass | 30-35% |
-| Duodenal switch | 35-40% |
-
-#### Preoperative Requirements
-- Comprehensive evaluation
-- Nutritional assessment
-- Psychological evaluation
-- Medical optimization
-
-#### Postoperative Care
-- Lifelong vitamin/mineral supplementation
-- Regular monitoring
-- Support groups
-- Long-term follow-up
-
-### Lower-Cost Treatment Options
-
-#### Step Therapy
-| Step | Approach |
-|------|----------|
-| 1 | Lifestyle + lower-cost medications |
-| 2 | Add or switch to newer agents if needed |
-| 3 | Consider surgery if medication failure |
-
-#### Cost Considerations
-- Generic options when available
-- Manufacturer programs
-- Insurance navigation
-- Value-based care
-
-### Long-Term Management
-
-#### Maintenance
-| Strategy | Details |
-|----------|---------|
-| Ongoing medication | Often required long-term |
-| Continued lifestyle | Diet, exercise, behavior |
-| Regular monitoring | Weight, complications |
-| Adjust treatment | As needed |
-
-#### Weight Regain Prevention
-- Recognize as common
-- Address promptly
-- Intensify treatment as needed
-- Consider medication or surgery
-
-### Equity and Access
-
-#### Reducing Disparities
-- Address weight bias
-- Culturally appropriate care
-- Remove barriers to treatment
-- Advocate for coverage
-
+### Long-Term Follow-Up
+- Obesity is a chronic disease requiring lifelong management. Reframe focus from "diet" to sustained lifestyle modification and medical management.
